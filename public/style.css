@@ -2,7 +2,7 @@
     --primary: #2684ba;
     --secondary: #fac338;
     --black: #261c15;
-    --gray: #ced3dc;
+    --gray: #707e99;
     --white: #fcf7f8;
 }
 
@@ -16,10 +16,10 @@ body.dark {
     background-color: var(--black);
 }
 
-button.theme-toggle {
-    padding: 6px;
+div.theme-toggle {
+    padding: 3px;
     margin: 10px;
-    top: 0;
-    right: 0;
+    top: 5vh;
+    right: 5vh;
     position: absolute;
 }
