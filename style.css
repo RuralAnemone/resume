@@ -15,3 +15,11 @@ body.dark {
     color: var(--white);
     background-color: var(--black);
 }
+
+button.theme-toggle {
+    padding: 6px;
+    margin: 10px;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
