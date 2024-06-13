@@ -14,12 +14,25 @@ body {
     color: var(--black);
     background-color: var(--white);
     margin: 0;
+    overflow: hidden;
 }
 
 header {
     background-color: var(--primary);
     width: 100%;
-    padding: 1rem;
+    padding: 1em;
 
     font-family: Inter Tight, sans-serif;
+}
+
+header aside {
+    float: right;
+    text-align: right;
+}
+
+header button {
+    background-color: var(--secondary);
+    border-style: ridge;
+    font-size: 6em;
+    padding: 1rem;
 }
