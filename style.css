@@ -27,19 +27,20 @@ header {
 
 header h1 {
     margin-top: 0;
+    font-size: 128px;
 }
 
 header h1:not(:hover) {
-    font-weight: 500;
+    font-weight: 800;
     transition: 1s;
 }
 
 header h1:hover {
     /* animation: enbolden 1s forwards; */
-    transition-duration: 2s;
+    transition-duration: 1.5s;
     /* transition-property: font-weight font-kerning; */
     letter-spacing: .3ex;
-    font-weight: 800;
+    font-weight: 200;
 }
 
 header aside {
