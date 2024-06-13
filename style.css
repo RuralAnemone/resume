@@ -1,7 +1,7 @@
 :root {
     --primary: #2684ba;
     --primary-dark: #000;
-    --secondary: #fac338;
+    --secondary: #db9e06;
     --secondary-dark: #fff;
     --black: #151418;
     --gray: #707e69;
@@ -11,8 +11,11 @@
 body {
     color: var(--black);
     background-color: var(--white);
+    margin: 0;
 }
 
 header {
     background-color: var(--primary);
+    width: 100%;
+    position: sticky;
 }
