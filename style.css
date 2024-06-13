@@ -8,28 +8,11 @@
     --white: #fcf7f8;
 }
 
-body:not(.dark) {
+body {
     color: var(--black);
     background-color: var(--white);
 }
 
-body.dark {
-    color: var(--white);
-    background-color: var(--black);
-}
-
 header {
     background-color: var(--primary);
-}
-
-div.theme-toggle {
-    padding: 2px;
-    margin: 2px;
-    top: 2vh;
-    right: 2vh;
-    position: absolute;
-}
-
-div.theme-toggle:hover {
-    cursor: pointer;
 }
