@@ -1,6 +1,8 @@
 :root {
     --primary: #2684ba;
+    --primary-dark: #000;
     --secondary: #fac338;
+    --secondary-dark: #fff;
     --black: #151418;
     --gray: #707e69;
     --white: #fcf7f8;
@@ -16,10 +18,18 @@ body.dark {
     background-color: var(--black);
 }
 
+header {
+    background-color: var(--primary);
+}
+
 div.theme-toggle {
-    padding: 3px;
-    margin: 10px;
-    top: 5vh;
-    right: 5vh;
+    padding: 2px;
+    margin: 2px;
+    top: 2vh;
+    right: 2vh;
     position: absolute;
+}
+
+div.theme-toggle:hover {
+    cursor: pointer;
 }
