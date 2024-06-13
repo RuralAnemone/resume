@@ -14,7 +14,7 @@ body {
     color: var(--black);
     background-color: var(--white);
     margin: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 header {
