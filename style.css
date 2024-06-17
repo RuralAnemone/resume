@@ -4,7 +4,7 @@
 
 :root {
     --primary: #2684ba;
-    --secondary: #db9e06;
+    --secondary: #f9bd24;
     --black: #151418;
     --gray: #707e69;
     --white: #fcf7f8;
@@ -21,13 +21,18 @@ header {
     background-color: var(--primary);
     width: 100%;
     padding: 2em;
+    height: 100vh;
 
     font-family: Inter Tight, sans-serif;
 }
 
 header h1 {
-    margin-top: 0;
-    font-size: 128px;
+    margin: 0;
+    width: 50vw;
+    height: auto;
+    font-size: calc(50vw/11);
+    text-align: center;
+    /* border: 1px solid red; */
 }
 
 header h1:not(:hover) {
