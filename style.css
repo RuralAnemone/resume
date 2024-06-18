@@ -21,31 +21,44 @@ header {
     background-color: var(--primary);
     width: 100%;
     padding: 2em;
-    height: 100vh;
+    height: 50vh;
 
     font-family: Inter Tight, sans-serif;
 }
 
-header h1 {
-    margin: 0;
+header div.name-container {
+    border-radius: 20em;
+    background-color: var(--secondary);
+    border: 1ex solid var(--black);
     width: 50vw;
+}
+
+header div.name-container h1 {
+    margin: 0;
+    width: 100%;
     height: auto;
     font-size: calc(50vw/11);
     text-align: center;
     /* border: 1px solid red; */
 }
 
-header h1:not(:hover) {
+header div.name-container h1:not(:hover) {
     font-weight: 800;
     transition: 1s;
 }
 
-header h1:hover {
+header div.name-container h1:hover {
     /* animation: enbolden 1s forwards; */
     transition-duration: 1.5s;
     /* transition-property: font-weight font-kerning; */
     letter-spacing: .3ex;
     font-weight: 200;
+}
+
+header div.me-img-container img {
+    border: 1px solid red;
+    width: auto;
+    height: 20vh;
 }
 
 header aside {
