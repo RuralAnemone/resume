@@ -53,7 +53,7 @@
 	- git (fluent)
 		- GitHub (fluent)
 		- GitLab (fluent)
-		- CodeBerg (fluent)
+		- Codeberg (fluent)
 
 ---
 

@@ -1,0 +1,257 @@
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+index 0000000..b58b603
+--- /dev/null
++++ b/.idea/.gitignore
+@@ -0,0 +1,5 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+index 0000000..53838f6
+--- /dev/null
++++ b/.idea/modules.xml
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/resume.iml" filepath="$PROJECT_DIR$/.idea/resume.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+diff --git a/.idea/resume.iml b/.idea/resume.iml
+new file mode 100644
+index 0000000..24643cc
+--- /dev/null
++++ b/.idea/resume.iml
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+index 0000000..35eb1dd
+--- /dev/null
++++ b/.idea/vcs.xml
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+diff --git a/.obsidian/app.json b/.obsidian/app.json
+index 9e26dfe..e609a07 100644
+--- a/.obsidian/app.json
++++ b/.obsidian/app.json
+@@ -1 +1,3 @@
+-{}
+\ No newline at end of file
++{
++  "promptDelete": false
++}
+\ No newline at end of file
+diff --git a/.obsidian/hotkeys.json b/.obsidian/hotkeys.json
+new file mode 100644
+index 0000000..2b76ccf
+--- /dev/null
++++ b/.obsidian/hotkeys.json
+@@ -0,0 +1,27 @@
++{
++  "obsidian-git:commit": [
++    {
++      "modifiers": [
++        "Alt"
++      ],
++      "key": "C"
++    }
++  ],
++  "obsidian-git:push2": [
++    {
++      "modifiers": [
++        "Alt"
++      ],
++      "key": "P"
++    }
++  ],
++  "obsidian-git:commit-specified-message": [
++    {
++      "modifiers": [
++        "Alt",
++        "Shift"
++      ],
++      "key": "C"
++    }
++  ]
++}
+\ No newline at end of file
+diff --git a/.obsidian/plugins/obsidian-git/data.json b/.obsidian/plugins/obsidian-git/data.json
+index b6fdcb2..74a9e5b 100644
+--- a/.obsidian/plugins/obsidian-git/data.json
++++ b/.obsidian/plugins/obsidian-git/data.json
+@@ -1,34 +1,34 @@
+ {
+-  "commitMessage": "vault backup: {{date}}",
+-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
++  "commitMessage": "manual obsidian backup: {{date}}",
++  "commitDateFormat": "YYYY-MM-DDTHH:mm:ss",
+   "autoSaveInterval": 2,
+   "autoPushInterval": 0,
+   "autoPullInterval": 2,
+-  "autoPullOnBoot": false,
++  "autoPullOnBoot": true,
+   "disablePush": false,
+   "pullBeforePush": true,
+   "disablePopups": false,
+-  "disablePopupsForNoChanges": false,
+-  "listChangedFilesInMessageBody": false,
++  "disablePopupsForNoChanges": true,
++  "listChangedFilesInMessageBody": true,
+   "showStatusBar": true,
+-  "updateSubmodules": false,
+-  "syncMethod": "merge",
++  "updateSubmodules": true,
++  "syncMethod": "rebase",
+   "customMessageOnAutoBackup": false,
+   "autoBackupAfterFileChange": false,
+   "treeStructure": false,
+   "refreshSourceControl": true,
+   "basePath": "",
+   "differentIntervalCommitAndPush": false,
+-  "changedFilesInStatusBar": false,
++  "changedFilesInStatusBar": true,
+   "showedMobileNotice": true,
+   "refreshSourceControlTimer": 7000,
+   "showBranchStatusBar": true,
+-  "setLastSaveToLastCommit": true,
++  "setLastSaveToLastCommit": false,
+   "submoduleRecurseCheckout": false,
+   "gitDir": "",
+   "showFileMenu": true,
+-  "authorInHistoryView": "hide",
+-  "dateInHistoryView": false,
++  "authorInHistoryView": "full",
++  "dateInHistoryView": true,
+   "lineAuthor": {
+     "show": false,
+     "followMovement": "inactive",
+@@ -54,5 +54,5 @@
+     "lastShownAuthorDisplay": "initials",
+     "lastShownDateTimeFormatOptions": "date"
+   },
+-  "autoCommitMessage": "vault backup: {{date}}"
++  "autoCommitMessage": "automated obsidian backup: {{date}}"
+ }
+\ No newline at end of file
+diff --git a/.obsidian/workspace.json b/.obsidian/workspace.json
+index 9081a3f..e0a6176 100644
+--- a/.obsidian/workspace.json
++++ b/.obsidian/workspace.json
+@@ -147,5 +147,10 @@
+     }
+   },
+   "active": "189952f10fc0a770",
+-  "lastOpenFiles": []
++  "lastOpenFiles": [
++    "me.jpeg",
++    "content.md",
++    "_config.yml",
++    "_config.yml.md"
++  ]
+ }
+\ No newline at end of file
+diff --git a/_config.yml b/_config.yml
+new file mode 100644
+index 0000000..c92522e
+--- /dev/null
++++ b/_config.yml
+@@ -0,0 +1 @@
++remote_theme: "dracula/gh-pages"
+diff --git a/content.md b/content.md
+index e69de29..5d2176d 100644
+--- a/content.md
++++ b/content.md
+@@ -0,0 +1,67 @@
++# Skills
++
++<!-- %% add devicons later %% -->
++- #### Operating Systems
++	- GNU+Linux
++		- Debian (and derivatives)
++		- openSUSE
++		- ChromeOS
++	- Windows
++	- MacOS
++- #### Programming Languages
++	- JavaScript & TypeScript (fluent)
++		- npm
++		- yarn
++		- bun
++		- React.js
++		- Next.js
++	- Java (comfortable)
++		- WPILib
++	- Python (comfortable)
++	- POSIX Shell Scripting (comfortable)
++		- bash, etc
++	- ...and I'm learning:
++		- Rust
++		- Haskell
++		- Go
++- #### Markup Languages
++	- HTML (fluent)
++	- CSS (fluent)
++	- SCSS (fluent)
++	- LaTeX (comfortable)
++- #### Editors & IDEs
++	- VSCodium (and Visual Studio Code)
++	- vim & neovim
++	- JetBrains & derivatives
++		- WebStorm
++- #### ISO/IEC Standards:
++	- ISO 8601 (fluent)
++	- ISO/IEC 40500:2012 (comfortable)
++	- ISO/IEC 80000 (comfortable)
++	- anything else (would like to learn)
++- #### Miscellaneous/One-off Items (in case you're searching for keywords)
++	- the Google Suite
++		- Google Docs (fluent)
++		- Google Sheets (fluent)
++		- Google Slides (fluent)
++		- Google Forms (fluent)
++		- Google Sites (comfortable)
++		- Google Ads (comfortable)
++		- Google Analytics (comfortable)
++		- Google Play Store (comfortable)
++	- Excalidraw (fluent)
++	- git (fluent)
++		- GitHub (fluent)
++		- GitLab (fluent)
++		- CodeBerg (fluent)
++
++---
++
++# Certifications
++
++- none yet! just wait until I finish cs50 (:
++
++---
++
++# Experience
++
