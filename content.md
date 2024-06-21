@@ -43,5 +43,11 @@
 
 ---
 
+# Certifications
+
+- none (yet! just wait until I finish cs50 🙂)
+
+---
+
 # Experience
 
