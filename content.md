@@ -49,7 +49,11 @@
 		- Google Ads (comfortable)
 		- Google Analytics (comfortable)
 		- Google Play Store (comfortable)
-	- Excalidraw
+	- Excalidraw (fluent)
+	- git (fluent)
+		- GitHub (fluent)
+		- GitLab (fluent)
+		- CodeBerg (fluent)
 
 ---
 
