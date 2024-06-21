@@ -18,6 +18,7 @@
 		- Next.js
 	- HTML (fluent)
 	- CSS (fluent)
+	- SCSS (fluent)
 	- Java (comfortable)
 		- WPILib
 	- Python (comfortable)
@@ -30,7 +31,8 @@
 - #### Editors & IDEs
 	- VSCodium (and Visual Studio Code)
 	- vim & neovim
-	- 
+	- JetBrains & derivatives
+		- WebStorm
 
 ---
 
