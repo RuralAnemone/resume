@@ -1,5 +1,9 @@
 # Skills
 
+- git & GitHub
+
+## JavaScript
+
 
 
 ---
