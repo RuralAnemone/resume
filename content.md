@@ -9,14 +9,22 @@
 		- ChromeOS
 	- Windows
 	- MacOS
-- #### JavaScript (fluent)
-	- npm
-	- yarn
-	- bun
-	- React.js
-	- Next.js
-- #### Java
-	- WPILib
+- #### Programming Languages
+	- JavaScript & TypeScript (fluent)
+		- npm
+		- yarn
+		- bun
+		- React.js
+		- Next.js
+	- Java (comfortable)
+		- WPILib
+	- Python (comfortable)
+	- POSIX Shell Scripting (comfortable)
+		- bash, etc
+	- ...and I'm learning:
+		- Rust
+		- Haskell
+		- Go
 
 ---
 
