@@ -1,7 +1,6 @@
 # Skills
 
 <!-- %% add devicons later %% -->
-- git & GitHub
 - #### Operating Systems
 	- GNU+Linux
 		- Debian (and derivatives)
@@ -40,6 +39,17 @@
 	- ISO/IEC 40500:2012 (comfortable)
 	- ISO/IEC 80000 (comfortable)
 	- anything else (would like to learn)
+- #### Miscellaneous/One-off Items (in case you're searching for keywords)
+	- the Google Suite
+		- Google Docs (fluent)
+		- Google Sheets (fluent)
+		- Google Slides (fluent)
+		- Google Forms (fluent)
+		- Google Sites (comfortable)
+		- Google Ads (comfortable)
+		- Google Analytics (comfortable)
+		- Google Play Store (comfortable)
+	- Excalidraw
 
 ---
 
