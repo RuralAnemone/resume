@@ -35,6 +35,10 @@
 	- vim & neovim
 	- JetBrains & derivatives
 		- WebStorm
+- #### ISO/IEC Standards:
+	- ISO 8601 (fluent)
+	- ISO/IEC 
+	- anything else (would like to learn)
 
 ---
 
