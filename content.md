@@ -52,8 +52,8 @@
 	- Excalidraw (fluent)
 	- git (fluent)
 		- GitHub (fluent)
-		- GitLab (fluent)
-		- Codeberg (fluent)
+		- GitLab (comfortable)
+		- Codeberg (comfortable)
 
 ---
 
