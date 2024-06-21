@@ -16,9 +16,6 @@
 		- bun
 		- React.js
 		- Next.js
-	- HTML (fluent)
-	- CSS (fluent)
-	- SCSS (fluent)
 	- Java (comfortable)
 		- WPILib
 	- Python (comfortable)
@@ -28,6 +25,11 @@
 		- Rust
 		- Haskell
 		- Go
+- #### Markup Languages
+	- HTML (fluent)
+	- CSS (fluent)
+	- SCSS (fluent)
+	- LaTeX (comfortable)
 - #### Editors & IDEs
 	- VSCodium (and Visual Studio Code)
 	- vim & neovim
