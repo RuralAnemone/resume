@@ -147,5 +147,9 @@
     }
   },
   "active": "189952f10fc0a770",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_config.yml",
+    "_config.yml.md",
+    "content.md"
+  ]
 }
