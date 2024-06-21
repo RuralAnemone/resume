@@ -37,8 +37,8 @@
 		- WebStorm
 - #### ISO/IEC Standards:
 	- ISO 8601 (fluent)
-	- ISO/IEC 40500:2012
-	- ISO/IEC 80000
+	- ISO/IEC 40500:2012 (comfortable)
+	- ISO/IEC 80000 (comfortable)
 	- anything else (would like to learn)
 
 ---
