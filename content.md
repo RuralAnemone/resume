@@ -2,11 +2,15 @@
 
 <!-- %% add devicons later %% -->
 - git & GitHub
-- #### JavaScript
+- 
+- #### JavaScript (fluent)
 	- npm
 	- yarn
 	- bun
-	- 
+	- React.js
+	- Next.js
+- #### Java
+	- WPILib
 
 ---
 
