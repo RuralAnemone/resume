@@ -21,25 +21,35 @@ header {
     background-color: var(--primary);
     width: 100%;
     padding: 2em;
-    height: 50vh;
+    height: 40vh;
 
     font-family: Inter Tight, sans-serif;
+}
+
+header div.me-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50vw;
 }
 
 header div.name-container {
     border-radius: 20em;
     background-color: var(--secondary);
+    font-size: calc(12px);
     border: 1ex solid var(--black);
-    width: 50vw;
+    width: min(27rex,40%);
 }
 
 header div.name-container h1 {
     margin: 0;
     width: 100%;
     height: auto;
-    font-size: calc(50vw/11);
+    /* font-size: calc(25vw/22); */
     text-align: center;
     /* border: 1px solid red; */
+    /* padding-left: 1em; */
+    padding-right: 1em;
 }
 
 header div.name-container h1:not(:hover) {
@@ -55,10 +65,19 @@ header div.name-container h1:hover {
     font-weight: 200;
 }
 
+header div.me-img-container {
+    width: 40%;
+    /* height:  */
+    border: 1.5ex solid var(--black);
+    border-radius: 100%;
+    padding: 0;
+}
+
 header div.me-img-container img {
-    border: 1px solid red;
-    width: auto;
-    height: 20vh;
+    /* border: 1px solid red; */
+    border-radius: 100%;
+    width: 100%;
+    height: 100%;
 }
 
 header aside {
