@@ -34,6 +34,8 @@
 	-->
 - #### Markup Languages
 	- HTML (fluent)
+	- Markdown (fluent)
+		- Obsidian (fluent)
 	- CSS (fluent)
 	- SCSS (fluent)
 	- LaTeX (comfortable)
@@ -60,6 +62,7 @@
 	- GitHub (fluent)
 	- GitLab (comfortable)
 	- Codeberg (comfortable)
+- C
 
 ---
 
