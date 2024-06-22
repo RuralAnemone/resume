@@ -78,4 +78,11 @@ Fixing bugs, cleaning up spaghetti code and CSS, making website more user-friend
 #### Volunteer
 #### Emmanuel Christian Center - Spring Lake Park, MN
 ##### September 2017 to Present
-Worship, Tech, Coaching [expand later]
+Worship, Tech, Coaching \[expand later\]
+
+---
+
+#### Summer Contract Worker
+#### All Good Organics - Lino Lakes, MN
+#### June 2020 to August 2023
+Worked as a farmhand,  doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
