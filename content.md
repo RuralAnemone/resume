@@ -68,10 +68,12 @@
 	- Discord (fluent)
 	- Gmail and Google Chat (fluent)
 	- Outlook (fluent)
+	- Matrix (comfortable)
+	- Vocation (fluent)
 - #### Network Tools
 	- Cloudflare (comfortable)
-	- Any registrar
-		- Porkbun, na (fluent)
+	- Any domain registrar (fluent)
+		- Porkbun, Namecheap, Freenom, etc
 
 ---
 
