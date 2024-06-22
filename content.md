@@ -84,5 +84,22 @@ Worship, Tech, Coaching \[expand later\]
 
 #### Summer Contract Worker
 #### All Good Organics - Lino Lakes, MN
-#### June 2020 to August 2023
+##### June 2020 to August 2023
 Worked as a farmhand,  doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
+
+---
+
+#### Produce Associate
+#### Fresh And Natural Foods - Shoreview, MN
+##### June 2022 to August 2022
+Helped customers with their shopping needs. Used Google Sheets to track produce I/O.
+
+---
+
+# Education
+
+#### High school diploma
+##### Mounds View Senior High School - Arden Hills, MN
+September 2020 to May 2024
+
+---
