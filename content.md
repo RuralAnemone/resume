@@ -68,10 +68,10 @@
 	- Matrix (competent)
 	- IRC (competent)
 - #### Network/Website Management Tools
-	- Cloudflare (comfortable)
-	- Any domain registrar (fluent)
+	- Cloudflare (competent)
+	- Any domain registrar (proficient)
 		- Porkbun, Namecheap, Freenom, etc
-	<!--- nginx (uncomfortable)-->
+	- nginx (beginning)
 
 ---
 
