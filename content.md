@@ -2,19 +2,21 @@
 
 <!-- %% add devicons later %% -->
 - #### Operating Systems
-	- GNU+Linux
+	- GNU+Linux (fluent)
 		- Debian (and derivatives)
+			- Ubuntu
+			- Raspbian (Raspberry Pi)
 		- openSUSE
 		- ChromeOS
-	- Windows
-	- MacOS
+	- Windows (fluent)
+	- MacOS (comfortable)
 - #### Programming Languages
 	- JavaScript & TypeScript (fluent)
-		- npm
-		- yarn
-		- bun
-		- React.js
-		- Next.js
+		- npm & node (fluent)
+		- yarn (fluent)
+		- bun (comfortable)
+		- React.js (comfortable)
+		- Next.js (comfortable)
 	- Java (comfortable)
 		- WPILib
 	- Python (comfortable)
@@ -38,7 +40,7 @@
 	- ISO 8601 (fluent)
 	- ISO/IEC 40500:2012 (comfortable)
 	- ISO/IEC 80000 (comfortable)
-- #### the Google Suite
+- #### The Google Suite
 	- Google Docs (fluent)
 	- Google Sheets (fluent)
 	- Google Slides (fluent)
