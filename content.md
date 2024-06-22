@@ -24,6 +24,7 @@
 	- Java (comfortable)
 		- WPILib
 	- Python (comfortable)
+		- manim (comfortable)
 	- POSIX Shell Scripting (comfortable)
 		- bash, etc
 	- Haskell (comfortable)
@@ -62,7 +63,7 @@
 	- GitHub (fluent)
 	- GitLab (comfortable)
 	- Codeberg (comfortable)
-- C
+#### - Communication software
 
 ---
 
