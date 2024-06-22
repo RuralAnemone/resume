@@ -1,6 +1,7 @@
 # Header
 
 ---
+
 ## Isaiah Wallerstedt
 
 ## Contact:
@@ -13,6 +14,7 @@
 | sms / cell | +1 (555) 555-5555         |
 
 ---
+
 # Skills
 ## Operating Systems
 - ### Proficient
@@ -116,10 +118,12 @@
 	- Google Play Store
 
 ---
+
 # Certifications
- <!--- none yet! just wait until I finish CS50 (:-->
+ <!-- - none yet! just wait until I finish CS50 (: -->
  
 ---
+
 # Experience
 ## Summer Contract Worker
 ### All Good Organics - Lino Lakes, MN
@@ -127,18 +131,21 @@
 Worked as a farmhand, doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
 
 ---
+
 ## Independent Contractor
 ### Nexus Logic Consulting, LLC - Minneapolis, MN
 #### November 2023 to Present
 Fixing bugs, cleaning up spaghetti code and CSS, making website more user-friendly.
 
 ---
+
 ## Associate
 ### About a Foot Long Hot Dog - Minnesota State Fairgrounds
 #### August 2023 to Present
 Helped open and close the stand, served customers, handled money (including occasional counterfeits).
 
 ---
+
 ## Volunteer
 ### Emmanuel Christian Center - Spring Lake Park, MN
 #### September 2017 to Present
@@ -147,24 +154,28 @@ Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and
 Coaching students in the kids' ministry on Propresenter 7 and the RØDECaster Pro II. Also leading a 4th grade connect group.
 
 ---
+
 ## Produce Associate
 ### Fresh And Natural Foods - Shoreview, MN
 #### June 2022 to August 2022
 Helped customers with their shopping needs. Used Google Sheets to track produce I/O.
 
 ---
+
 # Education
 ## High School Diploma
 ### Mounds View Senior High School - Arden Hills, MN
 #### Class of 2024
 
 ---
+
 # Groups
 ## FRC Team #3407
 ### September 2023 to June 2024
 Programmed in Java and C(++) with the WPILib API and gradle. Implemented manual overrides as well as functionality for using the Wii Balance Board as a controller (with [wiiuse](https://github.com/wiiuse/wiiuse)).
 
 ---
+
 # Publications
 ## The Skewer
 <https://mvskewer.org>
@@ -172,6 +183,7 @@ Programmed in Java and C(++) with the WPILib API and gradle. Implemented manual 
 A parody of our school newspaper that turned briefly into real journalism (which our school was not doing) and then subsequently into highly organized "chaos". I designed the website as my initial foray into React/Next.js.
 
 ---
+
 # Languages
 ## Swedish
 Conversationally fluent
