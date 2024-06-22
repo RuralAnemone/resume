@@ -174,3 +174,4 @@ A parody of our school newspaper that turned briefly into real journalism (which
 ---
 # Languages
 ## Swedish
+Conversationally fluent
