@@ -69,7 +69,8 @@
 	- Gmail and Google Chat (fluent)
 	- Outlook (fluent)
 	- Matrix (comfortable)
-	- Vocation (fluent)
+	%%- Vocalization (fluent)%%
+	- 
 - #### Network Tools
 	- Cloudflare (comfortable)
 	- Any domain registrar (fluent)
