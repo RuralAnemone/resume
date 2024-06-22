@@ -1,6 +1,6 @@
 # Skills
 
-<!-- %% add devicons later %% -->
+<!-- add devicons later -->
 - #### Operating Systems
 	- GNU+Linux (fluent)
 		- Debian (and derivatives)
@@ -23,18 +23,20 @@
 	- POSIX Shell Scripting (comfortable)
 		- bash, etc
 	- Haskell (comfortable)
-	- %%...and I'm learning:
+	<!--
+	- ...and I'm learning:
 		- Rust
-		- Go%%
+		- Go
+	-->
 - #### Markup Languages
 	- HTML (fluent)
 	- CSS (fluent)
 	- SCSS (fluent)
 	- LaTeX (comfortable)
 - #### Editors & IDEs
-	- VSCodium (and Visual Studio Code)
-	- vim & neovim
-	- JetBrains & derivatives
+	- VSCodium and Visual Studio Code (fluent)
+	- vim & neovim (comfortable)
+	- JetBrains & derivatives (comfortable)
 		- WebStorm
 - #### ISO/IEC Standards:
 	- ISO 8601 (fluent)
