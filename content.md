@@ -63,7 +63,15 @@
 	- GitHub (fluent)
 	- GitLab (comfortable)
 	- Codeberg (comfortable)
-#### - Communication software
+- #### Communication software
+	- Slack (fluent)
+	- Discord (fluent)
+	- Gmail and Google Chat (fluent)
+	- Outlook (fluent)
+- #### Network Tools
+	- Cloudflare (comfortable)
+	- Any registrar
+		- Porkbun, na (fluent)
 
 ---
 
