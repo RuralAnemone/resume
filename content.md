@@ -44,43 +44,66 @@
 		- LaTeX
 		- Mermaid
 - ## Editors & IDEs
-	- VSCodium and Visual Studio Code (proficient)
-	- vim & neovim (competent)
-	- JetBrains & derivatives (competent)
-		- WebStorm (competent)
+	- ### Proficient
+		- VSCodium and Visual Studio Code
+	- ### Competent
+		- vim & neovim
+		- JetBrains & derivatives
+			- WebStorm
 - ## ISO/IEC Standards:
-	- ISO 8601 - Time & Dates (proficient)
-	- ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines) (competent)
-	- ISO/IEC 80000 - Quantities & Unites (competent)
+	- ### Proficient
+		- ISO 8601 - Time & Dates
+	- ### Competent
+		- ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines)
+		- ISO/IEC 80000 - Quantities & Units
 - ## Office Tools
-	- LibreOffice (proficient)
-	- Google Suite (proficient)
-	- Microsoft Office 365 (competent)
-- ## Spyware
-	- Google Ads (competent)
-	- Google Analytics (competent)
-- ## git (proficient)
-	- GitHub (proficient)
-	- GitLab (competent)
-	- Codeberg (competent)
+	- ### Proficient
+		- LibreOffice
+		- Google Suite
+	- ### Competent
+		- Microsoft Office 365
+- ## Version Management
+	- ### Proficient
+		- git
+		- git-lfs (Large File Storage)
+		- GitHub
+		- GitLab
+		- Codeberg
+	- ### Beginning
+		- Apache SVN
 - ## Communication software
-	- Slack (proficient)
-	- Discord (proficient)
-	- Gmail and Google Chat (proficient)
-	- Microsoft Outlook (proficient)
-	- Matrix (competent)
-	- IRC (competent)
+	- ### Proficient
+		- Slack
+		- Discord
+		- Gmail and Google Chat
+		- Microsoft Outlook
+	- ### Competent
+		- Matrix
+		- IRC
 - ## Network/Website Management Tools
-	- Cloudflare (competent)
-	- Any domain registrar (proficient)
-		- Porkbun, Namecheap, Freenom, etc
-	- nginx (beginning)
+	- ### Proficient
+		- Any domain registrar
+			- Porkbun, Namecheap, Freenom, etc
+		- GitHub Pages
+		- Vercel
+	- ### Competent
+		- Cloudflare
+		- Netlify
+		- Railway
+	- ### Beginning
+		- nginx
 - ## Other
-	- Google Play Store (competent)
-	- Excalidraw (proficient)
+	- ### Proficient
+		- Excalidraw
+	- ### Competent
+		- Google Ads Placement
+		- Google Analytics
+		- Google Play Store
+
 ---
 # Certifications
- - none yet! just wait until I finish CS50 (: 
+ <!--- none yet! just wait until I finish CS50 (:-->
+ 
 ---
 # Experience
 ---
