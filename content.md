@@ -17,6 +17,10 @@
 		- bun (comfortable)
 		- React.js (comfortable)
 		- Next.js (comfortable)
+	- C (fluent)
+		- C++ (comfortable)
+		- C# (comfortable)
+			- Unity API (comfortable)
 	- Java (comfortable)
 		- WPILib
 	- Python (comfortable)
@@ -68,28 +72,28 @@
 # Experience
 
 ---
-#### Independent Contractor
+### Independent Contractor
 #### Nexus Logic Consulting, LLC - Minneapolis, MN
 ##### November 2023 to Present
 Fixing bugs, cleaning up spaghetti code and CSS, making website more user-friendly.
 
 ---
 
-#### Volunteer
+### Volunteer
 #### Emmanuel Christian Center - Spring Lake Park, MN
 ##### September 2017 to Present
 Worship, Tech, Coaching \[expand later\]
 
 ---
 
-#### Summer Contract Worker
+### Summer Contract Worker
 #### All Good Organics - Lino Lakes, MN
 ##### June 2020 to August 2023
 Worked as a farmhand,  doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
 
 ---
 
-#### Produce Associate
+### Produce Associate
 #### Fresh And Natural Foods - Shoreview, MN
 ##### June 2022 to August 2022
 Helped customers with their shopping needs. Used Google Sheets to track produce I/O.
@@ -98,7 +102,7 @@ Helped customers with their shopping needs. Used Google Sheets to track produce 
 
 # Education
 
-#### High school diploma
+### High school diploma
 ##### Mounds View Senior High School - Arden Hills, MN
 September 2020 to May 2024
 
