@@ -67,3 +67,15 @@
 
 # Experience
 
+---
+#### Independent Contractor
+#### Nexus Logic Consulting, LLC - Minneapolis, MN
+##### November 2023 to Present
+Fixing bugs, cleaning up spaghetti code and CSS, making website more user-friendly.
+
+---
+
+#### Volunteer
+#### Emmanuel Christian Center - Spring Lake Park, MN
+##### September 2017 to Present
+Worship, Tech, Coaching [expand later]
