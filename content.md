@@ -8,12 +8,12 @@
 			- Raspbian (Raspberry Pi)
 		- openSUSE
 		- ChromeOS
-	- Windows (fluent)
-	- MacOS (comfortable)
+	- Windows (proficient)
+	- MacOS (proficient)
 - #### Programming Languages
-	- JavaScript & TypeScript (fluent)
-		- npm & node (fluent)
-		- yarn (fluent)
+	- JavaScript & TypeScript (proficient)
+		- npm & node (proficient)
+		- yarn (proficient)
 		- bun (comfortable)
 		- React.js (comfortable)
 		- Next.js (comfortable)
