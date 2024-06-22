@@ -22,10 +22,10 @@
 	- Python (comfortable)
 	- POSIX Shell Scripting (comfortable)
 		- bash, etc
-	- ...and I'm learning:
+	- Haskell (comfortable)
+	- %%...and I'm learning:
 		- Rust
-		- Haskell
-		- Go
+		- Go%%
 - #### Markup Languages
 	- HTML (fluent)
 	- CSS (fluent)
