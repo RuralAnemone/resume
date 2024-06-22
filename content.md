@@ -31,12 +31,12 @@
 	- Rust (beginning)
 	- Go (beginning)
 - #### Markup Languages
-	- HTML (fluent)
-	- Markdown (fluent)
-		- Obsidian (fluent)
-	- CSS (fluent)
-	- SCSS (fluent)
-	- LaTeX (comfortable)
+	- HTML (proficient)
+	- Markdown (proficient)
+		- Obsidian (proficient)
+	- CSS (proficient)
+	- SCSS (competent)
+	- LaTeX (competent)
 - #### Editors & IDEs
 	- VSCodium and Visual Studio Code (fluent)
 	- vim & neovim (comfortable)
