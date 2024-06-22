@@ -77,7 +77,7 @@
 
 # Certifications
 
-- none yet! just wait until I finish cs50 (:
+ - none yet! just wait until I finish cs50 (: 
 
 ---
 
