@@ -1,3 +1,8 @@
+# Header
+
+## Isaiah Wallerstedt
+
+
 # Skills
 - ## Operating Systems
 	- ### Proficient
@@ -107,22 +112,28 @@
 ---
 # Experience
 ---
+## Summer Contract Worker
+### All Good Organics - Lino Lakes, MN
+#### June 2020 to Present
+Worked as a farmhand, doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
+
+---
 ## Independent Contractor
 ### Nexus Logic Consulting, LLC - Minneapolis, MN
 #### November 2023 to Present
 Fixing bugs, cleaning up spaghetti code and CSS, making website more user-friendly.
 
 ---
+## Associate
+### About a Foot Long Hot Dog - Minnesota State Fairgrounds
+#### August 2023 to Present
+
+
+---
 ## Volunteer
 ### Emmanuel Christian Center - Spring Lake Park, MN
 #### September 2017 to Present
 Worship, Tech, Coaching \[expand later\]
-
----
-## Summer Contract Worker
-### All Good Organics - Lino Lakes, MN
-#### June 2020 to August 2023
-Worked as a farmhand, doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
 
 ---
 ## Produce Associate
@@ -135,4 +146,17 @@ Helped customers with their shopping needs. Used Google Sheets to track produce 
 
 ## High School Diploma
 ### Mounds View Senior High School - Arden Hills, MN
-#### September 2020 to May 2024
+#### Class of 2024
+
+---
+# Groups
+## FRC Team #3407
+### September 2023 to June 2024
+Programmed in Java and C(++) with the WPILib API and gradle. Implemented manual overrides as well as functionality for using the Wii Balance Board as a controller (with [wiiuse](https://github.com/wiiuse/wiiuse)).
+
+---
+# Publications
+## The Skewer
+<https://mvskewer.org>
+### February 2023 - April 2024
+A parody of our school newspaper that turned briefly into real journalism (which our school was not doing) and then subsequently into highly organized "chaos". I designed the website as my initial foray into React/Next.js.
