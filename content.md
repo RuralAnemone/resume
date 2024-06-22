@@ -143,8 +143,8 @@ Helped open and close the stand, served customers, handled money (including occa
 ### Emmanuel Christian Center - Spring Lake Park, MN
 #### September 2017 to Present
 Playing piano/keys. Using Ableton Live and Nord Stage models. Currently playing at the Lakeville location once every month or so.
-Tech: Lighting using Vista 2 & 3 with various setups. Programmed fixtures and cuelists for kids', youth, and adult services. Mixed audio for kids' service using Allen & Heath, Yamaha, and RØDECaster boards.
-Coaching
+Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and cuelists for kids' and youth services. Mixing audio for kids' service using a RØDECaster Pro II board. (though I was trained on an Allen & Heath QU-24).
+Coaching students in the kids' ministry on Propresenter 7 and the RØDECaster Pro II. Also leading a 4th grade connect group.
 
 ---
 ## Produce Associate
