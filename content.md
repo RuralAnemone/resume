@@ -1,41 +1,48 @@
 # Skills
 - ## Operating Systems
-	- GNU+Linux (proficient)
-		- Debian (and derivatives)
-			- Ubuntu
-			- Raspbian (Raspberry Pi)
-		- openSUSE
-		- ChromeOS
-	- Windows (proficient)
-	- MacOS (proficient)
-- ## Programming Languages
-	- JavaScript & TypeScript (proficient)
-		- npm & node (proficient)
-		- yarn (proficient)
-		- bun (competent)
-		- React.js (competent)
-		- Next.js (competent)
-	- C (proficient)
-		- C++ (competent)
-		- C# (competent)
-			- Unity API (beginner)
-	- Java (proficient)
-		- WPILib (competent)
-	- Python (proficient)
-		- manim (competent)
-	- POSIX Shell Scripting (competent)
-		- bash, etc
-	- Haskell (competent)
-	- Rust (beginning)
-	- Go (beginning)
-- ## Markup Languages
-	- HTML (proficient)
-	- Markdown (expert)
-		- Obsidian (proficient)
-	- CSS (proficient)
-	- SCSS (competent)
-	- LaTeX (competent)
-	- Mermaid (competent)
+	- ### Proficient
+		- GNU+Linux
+			- Debian (and derivatives)
+				- Ubuntu
+				- Raspbian (Raspberry Pi)
+			- openSUSE
+			- ChromeOS
+		- Windows
+		- MacOS
+- ## Programming Languages & tools
+	- ### Proficient
+		- JavaScript & TypeScript
+		- npm & node
+		- yarn
+		- bun
+		- React.js
+		- Next.js
+		- C
+		- Java
+		- Python
+	- ### Competent
+		- C++
+		- C#
+		- Java WPILib (FIRST Robotics Competition SDK)
+		- manim
+		- POSIX Shell Scripting
+			- bash, etc
+		- Haskell
+	- ### Beginning
+		- Unity API
+		- Rust
+		- Go
+- ## Markup Languages & tools
+	- ### Expert
+		- HTML
+		- Markdown
+	- ### Proficient
+		- Obsidian
+		- CSS
+	- ### Competent
+		- SCSS
+		- LaTeX
+		- Mermaid
 - ## Editors & IDEs
 	- VSCodium and Visual Studio Code (proficient)
 	- vim & neovim (competent)
