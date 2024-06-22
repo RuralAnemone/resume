@@ -19,20 +19,17 @@
 		- Next.js (competent)
 	- C (proficient)
 		- C++ (competent)
-		- C# (comfortable)
-			- Unity API (comfortable)
-	- Java (comfortable)
-		- WPILib
-	- Python (comfortable)
-		- manim (comfortable)
-	- POSIX Shell Scripting (comfortable)
+		- C# (competent)
+			- Unity API (beginner)
+	- Java (proficient)
+		- WPILib (competent)
+	- Python (proficient)
+		- manim (competent)
+	- POSIX Shell Scripting (competent)
 		- bash, etc
-	- Haskell (comfortable)
-	<!--
-	- ...and I'm learning:
-		- Rust
-		- Go
-	-->
+	- Haskell (competent)
+	- Rust (beginning)
+	- Go (beginning)
 - #### Markup Languages
 	- HTML (fluent)
 	- Markdown (fluent)
