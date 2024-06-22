@@ -32,7 +32,7 @@
 	- Go (beginning)
 - #### Markup Languages
 	- HTML (proficient)
-	- Markdown (proficient)
+	- Markdown (expert)
 		- Obsidian (proficient)
 	- CSS (proficient)
 	- SCSS (competent)
