@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7062588d81f8086d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189952f10fc0a770",
+  "active": "7062588d81f8086d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "content.md",
     "content-print.pdf",
     "father-edits/20240622_123115.jpg",
     "father-edits/20240622_123109.jpg",
@@ -158,7 +171,6 @@
     "_config.yml~",
     "content-print.html",
     "me.jpeg",
-    "content.md",
     "_config.yml",
     "_config.yml.md"
   ]
