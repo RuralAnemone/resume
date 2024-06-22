@@ -1,12 +1,4 @@
 {
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-git:push2": [
     {
       "modifiers": [
@@ -16,6 +8,12 @@
     }
   ],
   "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    },
     {
       "modifiers": [
         "Alt",
