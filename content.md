@@ -70,11 +70,12 @@
 	- Outlook (fluent)
 	- Matrix (comfortable)
 	%%- Vocalization (fluent)%%
-	- IRV
-- #### Network Tools
+	- IRC (comfortable)
+- #### Network/Website Management Tools
 	- Cloudflare (comfortable)
 	- Any domain registrar (fluent)
 		- Porkbun, Namecheap, Freenom, etc
+		- 
 
 ---
 
