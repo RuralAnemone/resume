@@ -47,16 +47,13 @@
 	- ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines) (competent)
 	- ISO/IEC 80000 - Quantities & Unites (competent)
 - #### Office Tools
-	- Google
-		- Google Docs (fluent)
-		- Google Sheets (fluent)
-		- Google Slides (fluent)
-		- Google Forms (fluent)
-		- Google Sites (comfortable)
+	- LibreOffice (proficient)
+	- Google Suite (proficient)
+	- Microsoft Office 365 (competent)
 - #### Spyware
-	- Google Ads (comfortable)
-	- Google Analytics (comfortable)
-	- Google Play Store (comfortable)
+	- Google Ads (competent)
+	- Google Analytics (competent)
+- #### Google Play Store (comfortable)
 - #### Excalidraw (fluent)
 - #### git (fluent)
 	- GitHub (fluent)
