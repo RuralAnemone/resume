@@ -2,7 +2,16 @@
 
 ## Isaiah Wallerstedt
 
+## Contact:
 
+| service    | identifier                |
+| ---------- | ------------------------- |
+| web        | <https://wallerstedt.dev> |
+| GitHub     | RuralAnemone              |
+| email      | <my@fake.email>           |
+| sms / cell | +1 (555) 555-5555         |
+
+---
 # Skills
 - ## Operating Systems
 	- ### Proficient
