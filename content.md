@@ -38,20 +38,22 @@
 	- SCSS (competent)
 	- LaTeX (competent)
 - #### Editors & IDEs
-	- VSCodium and Visual Studio Code (fluent)
-	- vim & neovim (comfortable)
-	- JetBrains & derivatives (comfortable)
-		- WebStorm
+	- VSCodium and Visual Studio Code (proficient)
+	- vim & neovim (competent)
+	- JetBrains & derivatives (competent)
+		- WebStorm (competent)
 - #### ISO/IEC Standards:
-	- ISO 8601 (fluent)
-	- ISO/IEC 40500:2012 (comfortable)
-	- ISO/IEC 80000 (comfortable)
-- #### The Google Suite
-	- Google Docs (fluent)
-	- Google Sheets (fluent)
-	- Google Slides (fluent)
-	- Google Forms (fluent)
-	- Google Sites (comfortable)
+	- ISO 8601 - Time & Dates (proficient)
+	- ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines) (competent)
+	- ISO/IEC 80000 - Quantities & Unites (competent)
+- #### Office Tools
+	- Google
+		- Google Docs (fluent)
+		- Google Sheets (fluent)
+		- Google Slides (fluent)
+		- Google Forms (fluent)
+		- Google Sites (comfortable)
+- #### Spyware
 	- Google Ads (comfortable)
 	- Google Analytics (comfortable)
 	- Google Play Store (comfortable)
