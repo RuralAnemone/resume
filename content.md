@@ -2,7 +2,7 @@
 
 <!-- add devicons later -->
 - #### Operating Systems
-	- GNU+Linux ()
+	- GNU+Linux (proficient)
 		- Debian (and derivatives)
 			- Ubuntu
 			- Raspbian (Raspberry Pi)
