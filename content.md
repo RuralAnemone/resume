@@ -69,13 +69,13 @@
 	- Gmail and Google Chat (fluent)
 	- Outlook (fluent)
 	- Matrix (comfortable)
-	%%- Vocalization (fluent)%%
+	<!--- Vocalization (fluent)-->
 	- IRC (comfortable)
 - #### Network/Website Management Tools
 	- Cloudflare (comfortable)
 	- Any domain registrar (fluent)
 		- Porkbun, Namecheap, Freenom, etc
-		- 
+	<!--- nginx (uncomfortable)-->
 
 ---
 
@@ -118,7 +118,7 @@ Helped customers with their shopping needs. Used Google Sheets to track produce 
 
 # Education
 
-### High school diploma
+### High School Diploma
 ##### Mounds View Senior High School - Arden Hills, MN
 September 2020 to May 2024
 
