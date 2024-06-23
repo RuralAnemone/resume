@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,6 +148,7 @@
   },
   "active": "189952f10fc0a770",
   "lastOpenFiles": [
+    "-s",
     "Untitled.md",
     "content.md",
     "content-print.pdf",
