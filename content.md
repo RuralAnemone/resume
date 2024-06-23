@@ -139,7 +139,7 @@ Fixing bugs, cleaning up spaghetti code and CSS, making website more user-friend
 
 ---
 
-## Associate
+## Summer Associate
 ### About a Foot Long Hot Dog - Minnesota State Fairgrounds
 #### August 2023 to Present
 Helped open and close the stand, served customers, handled money (including occasional counterfeits).
@@ -149,16 +149,16 @@ Helped open and close the stand, served customers, handled money (including occa
 ## Volunteer
 ### Emmanuel Christian Center - Spring Lake Park, MN
 #### September 2017 to Present
-Playing piano/keys. Using Ableton Live and Nord Stage models. Currently playing at the Lakeville location once every month or so.
-Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and cuelists for kids' and youth services. Mixing audio for kids' service using a RØDECaster Pro II board. (though I was trained on an Allen & Heath QU-24).
-Coaching students in the kids' ministry on Propresenter 7 and the RØDECaster Pro II. Also leading a 4th grade connect group.
+Playing piano/keys. Using Ableton Live and Nord Stage models. Playing at the Lakeville location approximately once a month.
+Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and cuelists for kids and youth services. Mixing audio for kids service using a RØDECaster Pro II board. Trained on an Allen & Heath QU-24.
+Coaching students in kids' ministry on Propresenter 7 and the RØDECaster Pro II. Leading 4th grade connect group.
 
 ---
 
 ## Produce Associate
 ### Fresh And Natural Foods - Shoreview, MN
 #### June 2022 to August 2022
-Helped customers with their shopping needs. Used Google Sheets to track produce I/O.
+Helped customers with their shopping needs. Used Google Sheets to track produce Input/Output.
 
 ---
 
@@ -180,10 +180,13 @@ Programmed in Java and C(++) with the WPILib API and gradle. Implemented manual 
 ## The Skewer
 <https://mvskewer.org>
 ### February 2023 - April 2024
-A parody of our school newspaper that turned briefly into real journalism (which our school was not doing) and then subsequently into highly organized "chaos". I designed the website as my initial foray into React/Next.js.
+A parody of our school newspaper that turned briefly into real journalism and then subsequently into highly organized "chaos". I designed the website as my initial foray into React/Next.js.
 
 ---
 
 # Languages
+
+## English
+Native language
 ## Swedish
 Conversationally fluent
