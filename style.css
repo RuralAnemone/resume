@@ -24,7 +24,7 @@ body {
 header {
     background-color: var(--primary);
     width: 100%;
-    height: 30vh;
+    height: calc(100vh/3);
 }
 
 main {
@@ -34,12 +34,16 @@ main {
 }
 
 .flex-container {
+    height: calc(100vh/3);
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
 }
-
+/* 
 .me-container, .vr, .contact {
     margin-top: calc(((100vh/3)/3) / 2);
-}
+} */
 
 /* begin me */
 
@@ -52,6 +56,12 @@ div.vr {
 
 div.contact {
     padding-left: calc(100vw/36);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    float: left;    
 }
 
 div.contact > div > div.phone-icons,
@@ -71,7 +81,7 @@ div.contact > div {
 }
 
 .contact a {
-    padding: none;
-    margin: none;
-    font-size: calc((100vh/3)/9);
+    font-size: calc(2*((100vh/3)/9)/3);
+    color: var(--white);
+    text-decoration: none;
 }
