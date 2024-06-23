@@ -189,6 +189,7 @@ Programmed in Java and C(++) with the WPILib API and gradle. Implemented manual 
 # Publications
 ## The Skewer
 <https://mvskewer.org>
+
 ### February 2023 - April 2024
 A parody of our school newspaper that turned briefly into real journalism and then subsequently into highly organized "chaos". I designed the website as my initial foray into React/Next.js.
 
@@ -198,5 +199,6 @@ A parody of our school newspaper that turned briefly into real journalism and th
 
 ## English
 Native language
+
 ## Swedish
 Conversationally fluent
