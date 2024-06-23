@@ -16,6 +16,7 @@
 ---
 
 # Skills
+
 ## Operating Systems
 - ### Proficient
 	- GNU+Linux
@@ -26,6 +27,7 @@
 		- ChromeOS
 	- Windows
 	- MacOS
+
 ## Programming Languages & tools
 - ### Proficient
 	- JavaScript & TypeScript
@@ -49,6 +51,7 @@
 	- Unity API
 	- Rust
 	- Go
+
 ## Markup Languages & tools
 - ### Expert
 	- HTML
@@ -60,6 +63,7 @@
 	- SCSS
 	- LaTeX
 	- Mermaid
+
 ## Editors & IDEs
 - ### Proficient
 	- VSCodium and Visual Studio Code
@@ -67,18 +71,21 @@
 	- vim & neovim
 	- JetBrains & derivatives
 		- WebStorm
+
 ## ISO/IEC Standards:
 - ### Proficient
 	- ISO 8601 - Time & Dates
 - ### Competent
 	- ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines)
 	- ISO/IEC 80000 - Quantities & Units
+
 ## Office Tools
 - ### Proficient
 	- LibreOffice
 	- Google Suite
 - ### Competent
 	- Microsoft Office 365
+
 ## Version Management
 - ### Proficient
 	- git
@@ -88,6 +95,7 @@
 	- Codeberg
 - ### Beginning
 	- Apache SVN
+
 ## Communication software
 - ### Proficient
 	- Slack
@@ -97,6 +105,7 @@
 - ### Competent
 	- Matrix
 	- IRC
+
 ## Network/Website Management Tools
 - ### Proficient
 	- Any domain registrar
@@ -109,6 +118,7 @@
 	- Railway
 - ### Beginning
 	- nginx
+
 ## Other
 - ### Proficient
 	- Excalidraw
@@ -151,7 +161,7 @@ Helped open and close the stand, served customers, handled money (including occa
 #### September 2017 to Present
 Playing piano/keys using Ableton Live and Nord Stage models. Playing at the Lakeville location approximately once a month.
 Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and cuelists for kids and youth services. Mixing audio for kids service using a RØDECaster Pro II board. Trained on an Allen & Heath QU-24.
-Coaching students in kids' ministry on Propresenter 7 and the RØDECaster Pro II. Leading a 4th grade bible study.
+Coaching students in kids ministry on Propresenter 7 and the RØDECaster Pro II. Leading a 4th grade bible study.
 
 ---
 
