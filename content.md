@@ -149,9 +149,9 @@ Helped open and close the stand, served customers, handled money (including occa
 ## Volunteer
 ### Emmanuel Christian Center - Spring Lake Park, MN
 #### September 2017 to Present
-Playing piano/keys. Using Ableton Live and Nord Stage models. Playing at the Lakeville location approximately once a month.
+Playing piano/keys using Ableton Live and Nord Stage models. Playing at the Lakeville location approximately once a month.
 Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and cuelists for kids and youth services. Mixing audio for kids service using a RØDECaster Pro II board. Trained on an Allen & Heath QU-24.
-Coaching students in kids' ministry on Propresenter 7 and the RØDECaster Pro II. Leading 4th grade connect group.
+Coaching students in kids' ministry on Propresenter 7 and the RØDECaster Pro II. Leading a 4th grade bible study.
 
 ---
 
