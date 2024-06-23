@@ -70,8 +70,8 @@ div.contact > div {
     height: calc((100vh/3)/18);
 }
 
-.contact p {
+.contact a {
     padding: none;
     margin: none;
-    font-size: ;
+    font-size: calc((100vh/3)/9);
 }
