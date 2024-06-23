@@ -11,6 +11,7 @@
     --white: #fcf7f8;
 
     /* --header-height: 30vh; */
+    /* css does not like this being used as a constant, not sure why */
 }
 
 body {
@@ -37,7 +38,7 @@ main {
 }
 
 .me-container, .vr, .contact {
-    margin-top: calc((30vh/3) / 2);
+    margin-top: calc(((100vh/3)/3) / 2);
 }
 
 /* begin me */
@@ -45,7 +46,7 @@ main {
 /* end me */
 
 div.vr {
-    height: calc((2/3) * 30vh);
+    height: calc((2/3) * (100vh/3));
     border: 2px solid var(--white);
 }
 
@@ -56,11 +57,21 @@ div.contact {
 div.contact > div > div.phone-icons,
 div.contact > div > img {
     border: 1px solid red;
-    width: calc(30vh/9) !important;
-    height: calc(30vh/9) !important;
+    width: calc((100vh/3)/9);
+    height: calc((100vh/3)/9);
 }
 
 div.contact > div {
     display: flex;
     align-items: center;
+}
+
+.phone-icons > img {
+    height: calc((100vh/3)/18);
+}
+
+.contact p {
+    padding: none;
+    margin: none;
+    font-size: ;
 }
