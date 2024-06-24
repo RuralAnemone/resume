@@ -35,7 +35,7 @@ function nerdToggle(nerdMode) {
     // iterate through all elements (small amount so who cares how, right?)
     // for every element that has text directly inside, tun that text through textToBinary()
     document.querySelectorAll("*").forEach(e => {
-        if (e.childNodes[0].nodeType === Node.TEXT_NODE) {
+        if (e.childNodes[0]?.nodeType === Node.TEXT_NODE) {
             const textNode = e.childNodes[0];
             textNode.nodeValue = binaryConvert(textNode.nodeValue, directionBinarywards);
         }

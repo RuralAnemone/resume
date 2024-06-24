@@ -2,6 +2,7 @@
 /* *{border: solid red 1px} */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
     --primary: #2684ba;
@@ -224,6 +225,10 @@ div.head {
 /* fun animations */
 
 body.fun .contact a:hover {
-    transition: calc(0.5 * var(--random-time) + 0.5);
+    transition: calc(0.5 * var(--random-time) + 0.5s);
     color: red;
+}
+
+body.nerd * {
+    font-family: 'Roboto Mono', cursive;
 }
