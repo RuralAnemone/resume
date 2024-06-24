@@ -189,12 +189,35 @@ div.switch {
     height: calc((100vh/3)/9);
     width: calc(2 * (100vh/3)/9);
 
-    background-color: var(--græy);
+    display: flex;
+    align-items: center;
+
+    /* this works perfectly and I don't care about changing it lol */
+    border-radius: 1em;
+
+    border: 2pt solid var(--dark-græy);
+
+}
+
+div.switch.off {
+    background-color: var(--light-græy);
+}
+
+div.switch.on {
+    background-color: var(--secondary);
+}
+
+div.switch.on > .head {
+    transform: translate(30px);
 }
 
 div.head {
     height: inherit;
     width: calc((100vh/3)/9);
+
+    background-color: var(--white);
+    /* border: 3pt solid var(--light-græy); */
+    border-radius: 100%;
 }
 
 /* fun animations */
