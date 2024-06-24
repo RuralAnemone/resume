@@ -38,6 +38,7 @@ body {
 
 main p {
     margin-bottom: 0.0625in;
+    margin-top: 0;
 }
 
 main a {
@@ -58,8 +59,14 @@ main {
 }
 
 footer {
+    display: flex;
     margin: 0 0.15in;
-    float: bottom;
+    height: 80vh;
+    align-items: center;
+    justify-content: space-evenly;
+    .notice {
+        color: var(--light-græy);
+    }
 }
 
 .flex-container {
