@@ -31,6 +31,11 @@ main {
     /* font-size: 10/13pt; */
     font-size: 10pt;
     line-height: 13pt;
+    margin: 0 .15in;
+}
+
+footer {
+    margin: 0 .15in;
 }
 
 .flex-container {
@@ -105,12 +110,24 @@ div.contact > div {
 
 div.dr {
     position: relative;
-    border: 1pt solid var(--white);
+    /* width: calc((100vh/3)/9); */ /* - inherited */
+    height: 0;
+    border: .5pt solid var(--white);
     transform: rotate(-45deg);
 }
 
 .phone-icons > img {
     height: calc((100vh/3)/18);
+}
+
+.phone-icons > img[alt="sms icon"] {
+    transform: translate(0, .5pt);
+}
+
+.phone-icons > img[alt="call icon"] {
+    margin-left: calc((100vh/3)/18);
+
+    transform: translate(0, -.5pt);
 }
 
 .contact a {
