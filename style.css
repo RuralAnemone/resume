@@ -208,7 +208,7 @@ div.switch.on {
 }
 
 div.switch.on > .head {
-    transform: translate(30px);
+    transform: translate(calc((100vh/3)/9));
 }
 
 div.head {
