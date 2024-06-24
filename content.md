@@ -19,19 +19,19 @@
 
 ## Operating Systems
 
--   ### Proficient
-    -   GNU+Linux
-        -   Debian (and derivatives)
-            -   Ubuntu
-            -   Raspbian (Raspberry Pi)
-        -   openSUSE
-        -   ChromeOS
-    -   Windows
-    -   MacOS
+### Proficient
+-   GNU+Linux
+	-   Debian (and derivatives)
+		-   Ubuntu
+		-   Raspbian (Raspberry Pi)
+	-   openSUSE
+	-   ChromeOS
+-   Windows
+-   MacOS
 
 ## Programming Languages & tools
 
--   ### Proficient
+### Proficient
     -   JavaScript & TypeScript
     -   npm & node
     -   yarn
@@ -41,7 +41,7 @@
     -   C
     -   Java
     -   Python
--   ### Competent
+### Competent
     -   C++
     -   C#
     -   Java WPILib (FIRST Robotics Competition SDK)
@@ -49,99 +49,101 @@
     -   POSIX Shell Scripting
         -   bash, etc
     -   Haskell
--   ### Beginning
+### Beginning
     -   Unity API
     -   Rust
     -   Go
 
 ## Markup Languages & tools
 
--   ### Expert
+### Expert
     -   HTML
     -   Markdown
--   ### Proficient
+### Proficient
     -   Obsidian
     -   CSS
--   ### Competent
+### Competent
     -   SCSS
     -   LaTeX
     -   Mermaid
 
 ## Editors & IDEs
 
--   ### Proficient
+### Proficient
     -   VSCodium and Visual Studio Code
--   ### Competent
+### Competent
     -   vim & neovim
     -   JetBrains & derivatives
         -   WebStorm
 
 ## ISO/IEC Standards:
 
--   ### Proficient
+### Proficient
     -   ISO 8601 - Time & Dates
--   ### Competent
+### Competent
     -   ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines)
     -   ISO/IEC 80000 - Quantities & Units
 
 ## Office Tools
 
--   ### Proficient
+### Proficient
     -   LibreOffice
     -   Google Suite
--   ### Competent
+### Competent
     -   Microsoft Office 365
 
 ## Version Management
 
--   ### Proficient
+### Proficient
     -   git
     -   git-lfs (Large File Storage)
     -   GitHub
     -   GitLab
     -   Codeberg
--   ### Beginning
+### Beginning
     -   Apache SVN
 
 ## Communication software
 
--   ### Proficient
+### Proficient
     -   Slack
     -   Discord
     -   Gmail and Google Chat
     -   Microsoft Outlook
--   ### Competent
+### Competent
     -   Matrix
     -   IRC
 
 ## Network/Website Management Tools
 
--   ### Proficient
+### Proficient
     -   Any domain registrar
         -   Porkbun, Namecheap, Freenom, etc
     -   GitHub Pages
     -   Vercel
--   ### Competent
+### Competent
     -   Cloudflare
     -   Netlify
     -   Railway
--   ### Beginning
+### Beginning
     -   nginx
 
 ## Other
 
--   ### Proficient
+### Proficient
     -   Excalidraw
--   ### Competent
+### Competent
     -   Google Ads Placement
     -   Google Analytics
     -   Google Play Store
 
 ---
 
+<!--
 # Certifications
 
- <!-- - none yet! just wait until I finish CS50 (: -->
+  - none yet! just wait until I finish CS50 (:
+-->
 
 ---
 
