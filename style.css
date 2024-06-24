@@ -61,7 +61,8 @@ div.me-img-container > img {
 div.me-container > .name-container {
     transform: translate(0, -1.5em);
 
-    height: calc((100vh/3)/9);
+    /* height: calc((100vh/3)/9); */
+    font-size: calc((100vh/3)/18);
 
     border-radius: 27pt;
     background-color: var(--secondary);
@@ -91,7 +92,7 @@ div.contact {
 
 div.contact > div > div.phone-icons,
 div.contact > div > img {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: calc((100vh/3)/9);
     height: calc((100vh/3)/9);
 }
@@ -102,6 +103,12 @@ div.contact > div {
     margin: calc((1/36) * (100vh/3)) 0;
 }
 
+div.dr {
+    position: relative;
+    border: 1pt solid var(--white);
+    transform: rotate(-45deg);
+}
+
 .phone-icons > img {
     height: calc((100vh/3)/18);
 }
@@ -110,4 +117,5 @@ div.contact > div {
     font-size: calc(2*((100vh/3)/9)/3);
     color: var(--white);
     text-decoration: none;
+    margin-left: calc(2 * (1/36) * (100vh/3));
 }
