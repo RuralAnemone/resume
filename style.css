@@ -45,23 +45,24 @@ main {
     margin-top: calc(((100vh/3)/3) / 2);
 } */
 
-/* begin me */
-
-/* end me */
+div.me-container {
+    margin: calc(100vw/18);
+}
 
 div.vr {
     height: calc((2/3) * (100vh/3));
+    width: 0 !important;
     border: 2px solid var(--white);
 }
 
 div.contact {
+    margin: auto;
+    margin-left: 0;
     padding-left: calc(100vw/36);
 
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-
-    float: left;    
 }
 
 div.contact > div > div.phone-icons,
