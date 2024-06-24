@@ -8,3 +8,7 @@ function updateRandomCSSVariables() {
     root.style.setProperty('--random-rotation', `${Math.random()}deg`);
     root.style.setProperty('--random-length', `${Math.random()}em`);
 }
+
+document.querySelectorAll(".hidden").forEach(e => {
+    e.addEventListener('hover', e.remove);
+})
