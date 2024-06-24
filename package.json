@@ -1,11 +1,11 @@
 {
-  "name": "resume",
-  "dependencies": {
-    "prettier": "^3.3.2",
-    "serve": "^14.2.3"
-  },
-  "scripts": {
-    "start": "bunx serve .",
-    "clean": "prettier --write ."
-  }
+    "name": "resume",
+    "dependencies": {
+        "prettier": "^3.3.2",
+        "serve": "^14.2.3"
+    },
+    "scripts": {
+        "start": "bunx serve .",
+        "clean": "prettier --write ."
+    }
 }

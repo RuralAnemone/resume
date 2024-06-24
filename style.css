@@ -26,7 +26,9 @@ body {
     color: var(--black);
     background-color: var(--white);
     margin: 0;
-    font-family: Inter Tight, sans-serif;
+    font-family:
+        Inter Tight,
+        sans-serif;
 }
 
 * {
@@ -44,23 +46,23 @@ main a {
 header {
     background-color: var(--primary);
     width: 100%;
-    height: calc(100vh/3);
+    height: calc(100vh / 3);
 }
 
 main {
     /* font-size: 10/13pt; */
     font-size: 10pt;
     line-height: 13pt;
-    margin: 0 .15in;
+    margin: 0 0.15in;
 }
 
 footer {
-    margin: 0 .15in;
+    margin: 0 0.15in;
     float: bottom;
 }
 
 .flex-container {
-    height: calc(100vh/3);
+    height: calc(100vh / 3);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -68,20 +70,20 @@ footer {
 }
 
 div.me-container {
-    margin: calc(100vw/18);
+    margin: calc(100vw / 18);
 }
 
 div.me-img-container {
-    height: calc((2/3)*(100vh/3));
-    width: calc((2/3)*(100vh/3));
+    height: calc((2 / 3) * (100vh / 3));
+    width: calc((2 / 3) * (100vh / 3));
     margin: auto;
     border-radius: 100%;
     border: 3pt solid var(--black);
 }
 
 div.me-img-container > img {
-    height: calc((2/3)*(100vh/3)) !important;
-    width: calc((2/3)*(100vh/3)) !important;
+    height: calc((2 / 3) * (100vh / 3)) !important;
+    width: calc((2 / 3) * (100vh / 3)) !important;
     /* float: center; */
     /* height: inherit; */
     border-radius: inherit;
@@ -91,7 +93,7 @@ div.me-container > .name-container {
     transform: translate(0, -1.5em);
 
     /* height: calc((100vh/3)/9); */
-    font-size: calc((100vh/3)/18);
+    font-size: calc((100vh / 3) / 18);
 
     border-radius: 27pt;
     background-color: var(--secondary);
@@ -104,7 +106,7 @@ div.name-container > h1 {
 }
 
 div.vr {
-    height: calc((2/3) * (100vh/3));
+    height: calc((2 / 3) * (100vh / 3));
     width: 0 !important;
     border: 2px solid var(--white);
 }
@@ -112,7 +114,7 @@ div.vr {
 div.contact {
     margin: auto;
     margin-left: 0;
-    padding-left: calc(100vw/36);
+    padding-left: calc(100vw / 36);
 
     display: flex;
     flex-direction: column;
@@ -122,43 +124,43 @@ div.contact {
 div.contact > div > div.phone-icons,
 div.contact > div > img {
     /* border: 1px solid red; */
-    width: calc((100vh/3)/9);
-    height: calc((100vh/3)/9);
+    width: calc((100vh / 3) / 9);
+    height: calc((100vh / 3) / 9);
 }
 
 div.contact > div {
     display: flex;
     align-items: center;
-    margin: calc((1/36) * (100vh/3)) 0;
+    margin: calc((1 / 36) * (100vh / 3)) 0;
 }
 
 div.dr {
     position: relative;
     /* width: calc((100vh/3)/9); */ /* - inherited */
     height: 0;
-    border: .5pt solid var(--white);
+    border: 0.5pt solid var(--white);
     transform: rotate(-45deg);
 }
 
 .phone-icons > img {
-    height: calc((100vh/3)/18);
+    height: calc((100vh / 3) / 18);
 }
 
-.phone-icons > img[alt="sms icon"] {
-    transform: translate(0, .5pt);
+.phone-icons > img[alt='sms icon'] {
+    transform: translate(0, 0.5pt);
 }
 
-.phone-icons > img[alt="call icon"] {
-    margin-left: calc((100vh/3)/18);
+.phone-icons > img[alt='call icon'] {
+    margin-left: calc((100vh / 3) / 18);
 
-    transform: translate(0, -.5pt);
+    transform: translate(0, -0.5pt);
 }
 
 .contact a {
-    font-size: calc(2*((100vh/3)/9)/3);
+    font-size: calc(2 * ((100vh / 3) / 9) / 3);
     color: var(--white);
     text-decoration: none;
-    margin-left: calc(2 * (1/36) * (100vh/3));
+    margin-left: calc(2 * (1 / 36) * (100vh / 3));
 }
 
 /* toggle switch thingies */
@@ -169,7 +171,7 @@ div.mode-container {
     margin: auto;
     margin-right: 1em;
 
-    font-size: calc(2*((100vh/3)/9)/3);
+    font-size: calc(2 * ((100vh / 3) / 9) / 3);
     color: var(--white);
 }
 
@@ -186,8 +188,8 @@ div.mode p {
 }
 
 div.switch {
-    height: calc((100vh/3)/9);
-    width: calc(2 * (100vh/3)/9);
+    height: calc((100vh / 3) / 9);
+    width: calc(2 * (100vh / 3) / 9);
 
     display: flex;
     align-items: center;
@@ -207,12 +209,12 @@ div.switch.on {
 }
 
 div.switch.on > .head {
-    transform: translate(calc((100vh/3)/9));
+    transform: translate(calc((100vh / 3) / 9));
 }
 
 div.head {
     height: inherit;
-    width: calc((100vh/3)/9);
+    width: calc((100vh / 3) / 9);
 
     background-color: var(--white);
     /* border: 3pt solid var(--light-græy); */
