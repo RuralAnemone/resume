@@ -152,8 +152,32 @@ div.dr {
     margin-left: calc(2 * (1/36) * (100vh/3));
 }
 
-/* buttons */
+/* toggle switch thingies */
+div.mode-container {
+    display: flex;
+    /* flex-direction: column; */
 
+    font-size: calc(2*((100vh/3)/9)/3);
+    color: var(--white);
+}
+
+div.mode {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+div.switch {
+    height: calc((100vh/3)/9);
+    width: calc(2 * (100vh/3)/9);
+
+    background-color: var(--gray);
+}
+
+div.head {
+    height: inherit;
+    width: calc((100vh/3)/9);
+}
 
 /* fun animations */
 
