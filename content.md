@@ -32,114 +32,114 @@
 ## Programming Languages & tools
 
 ### Proficient
-    -   JavaScript & TypeScript
-    -   npm & node
-    -   yarn
-    -   bun
-    -   React.js
-    -   Next.js
-    -   C
-    -   Java
-    -   Python
+-   JavaScript & TypeScript
+-   npm & node
+-   yarn
+-   bun
+-   React.js
+-   Next.js
+-   C
+-   Java
+-   Python
 ### Competent
-    -   C++
-    -   C#
-    -   Java WPILib (FIRST Robotics Competition SDK)
-    -   manim
-    -   POSIX Shell Scripting
-        -   bash, etc
-    -   Haskell
+-   C++
+-   C#
+-   Java WPILib (FIRST Robotics Competition SDK)
+-   manim
+-   POSIX Shell Scripting
+	-   bash, etc
+-   Haskell
 ### Beginning
-    -   Unity API
-    -   Rust
-    -   Go
+-   Unity API
+-   Rust
+-   Go
 
 ## Markup Languages & tools
 
 ### Expert
-    -   HTML
-    -   Markdown
+-   HTML
+-   Markdown
 ### Proficient
-    -   Obsidian
-    -   CSS
+-   Obsidian
+-   CSS
 ### Competent
-    -   SCSS
-    -   LaTeX
-    -   Mermaid
+-   SCSS
+-   LaTeX
+-   Mermaid
 
 ## Editors & IDEs
 
 ### Proficient
-    -   VSCodium and Visual Studio Code
+-   VSCodium and Visual Studio Code
 ### Competent
-    -   vim & neovim
-    -   JetBrains & derivatives
-        -   WebStorm
+-   vim & neovim
+-   JetBrains & derivatives
+	-   WebStorm
 
 ## ISO/IEC Standards:
 
 ### Proficient
-    -   ISO 8601 - Time & Dates
+-   ISO 8601 - Time & Dates
 ### Competent
-    -   ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines)
-    -   ISO/IEC 80000 - Quantities & Units
+-   ISO/IEC 40500:2012 - WCAG (Web Content Accessibility Guidelines)
+-   ISO/IEC 80000 - Quantities & Units
 
 ## Office Tools
 
 ### Proficient
-    -   LibreOffice
-    -   Google Suite
+-   LibreOffice
+-   Google Suite
 ### Competent
-    -   Microsoft Office 365
+-   Microsoft Office 365
 
 ## Version Management
 
 ### Proficient
-    -   git
-    -   git-lfs (Large File Storage)
-    -   GitHub
-    -   GitLab
-    -   Codeberg
+-   git
+-   git-lfs (Large File Storage)
+-   GitHub
+-   GitLab
+-   Codeberg
 ### Beginning
-    -   Apache SVN
+-   Apache SVN
 
 ## Communication software
 
 ### Proficient
-    -   Slack
-    -   Discord
-    -   Gmail and Google Chat
-    -   Microsoft Outlook
+-   Slack
+-   Discord
+-   Gmail and Google Chat
+-   Microsoft Outlook
 ### Competent
-    -   Matrix
-    -   IRC
+-   Matrix
+-   IRC
 
 ## Network/Website Management Tools
 
 ### Proficient
-    -   Any domain registrar
-        -   Porkbun, Namecheap, Freenom, etc
-    -   GitHub Pages
-    -   Vercel
+-   Any domain registrar
+	-   Porkbun, Namecheap, Freenom, etc
+-   GitHub Pages
+-   Vercel
 ### Competent
-    -   Cloudflare
-    -   Netlify
-    -   Railway
+-   Cloudflare
+-   Netlify
+-   Railway
 ### Beginning
-    -   nginx
+-   nginx
 
 ## Other
 
 ### Proficient
-    -   Excalidraw
+-   Excalidraw
 ### Competent
-    -   Google Ads Placement
-    -   Google Analytics
-    -   Google Play Store
-
----
+-   Google Ads Placement
+-   Google Analytics
+-   Google Play Store
 
 <!--
+---
+
 # Certifications
 
   - none yet! just wait until I finish CS50 (:
