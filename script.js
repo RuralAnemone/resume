@@ -6,4 +6,5 @@ function updateRandomCSSVariables() {
     // console.log(Math.random());
     root.style.setProperty('--random-time', `${Math.random()}s`);
     root.style.setProperty('--random-rotation', `${Math.random()}deg`);
+    root.style.setProperty('--random-length', `${Math.random()}em`);
 }
