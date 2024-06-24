@@ -21,6 +21,10 @@ body {
     font-family: Inter Tight, sans-serif;
 }
 
+p {
+    margin-bottom: 0.0625in;
+}
+
 header {
     background-color: var(--primary);
     width: 100%;
