@@ -224,6 +224,6 @@ div.head {
 /* fun animations */
 
 body.fun .contact a:hover {
-    transition: calc(var(--random-time));
+    transition: calc(0.5 * var(--random-time) + 0.5);
     color: red;
 }
