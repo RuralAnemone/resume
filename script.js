@@ -22,19 +22,18 @@ document.querySelectorAll('.switch').forEach(e => {
         const switchType = e.parentElement.classList[0];
         document.body.classList.contains(switchType) ? document.body.classList.remove(switchType) : document.body.classList.add(switchType);
 
-        if (switchType === "nerd") nerdToggle(document.body.classList.contains("nerd"));
+        if (switchType === 'nerd') nerdToggle(document.body.classList.contains('nerd'));
     });
 });
-
 
 // nerd mode
 
 function nerdToggle(nerdMode) {
-    const directionBinarywards = nerdMode ? "to" : "from";
+    const directionBinarywards = nerdMode ? 'to' : 'from';
 
     // iterate through all elements (small amount so who cares how, right?)
     // for every element that has text directly inside, tun that text through textToBinary()
-    document.querySelectorAll("*").forEach(e => {
+    document.querySelectorAll('*').forEach(e => {
         if (e.childNodes[0]?.nodeType === Node.TEXT_NODE) {
             const textNode = e.childNodes[0];
             textNode.nodeValue = binaryConvert(textNode.nodeValue, directionBinarywards);
@@ -43,9 +42,15 @@ function nerdToggle(nerdMode) {
 }
 
 function binaryConvert(text, directionBinarywards) {
-    if (directionBinarywards === "to") {
-        return text.split("").map(c => c.charCodeAt(0).toString(2)).join(" ");
-    } else if (directionBinarywards === "from") {
-        return text.split(" ").map(bin => String.fromCharCode(parseInt(bin, 2))).join("");
-    } else throw new Error("🐗🏿🤯🏼");
+    if (directionBinarywards === 'to') {
+        return text
+            .split('')
+            .map(c => c.charCodeAt(0).toString(2))
+            .join(' ');
+    } else if (directionBinarywards === 'from') {
+        return text
+            .split(' ')
+            .map(bin => String.fromCharCode(parseInt(bin, 2)))
+            .join('');
+    } else throw new Error('🐗🏿🤯🏼');
 }
