@@ -166,7 +166,7 @@ nerd mode
 
 ## Version Management
 
--   ### Proficient
+- ### Proficient
 
     -   git
     -   git-lfs (Large File Storage)

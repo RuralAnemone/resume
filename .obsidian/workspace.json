@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "189952f10fc0a770",
   "lastOpenFiles": [
+    "content.md",
     "content-frag.html",
     "-s",
     "Untitled.md",
-    "content.md",
     "content-print.pdf",
     "father-edits/20240622_123115.jpg",
     "father-edits/20240622_123109.jpg",
