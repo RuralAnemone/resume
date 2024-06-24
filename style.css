@@ -10,6 +10,11 @@
     --gray: #707e69;
     --white: #fcf7f8;
 
+    /* random variables; defaults set here */
+    /* script.js sets these all to Math.random() * unit */
+    --random-time: .4s;
+    --random-rotation: 23deg;
+
     /* --header-height: 30vh; */
     /* css does not like this being used as a constant, not sure why */
 }
