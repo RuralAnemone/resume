@@ -18,5 +18,8 @@ document.querySelectorAll(".switch").forEach(e => {
             e.classList.add("on");
             e.classList.remove("off");
         }
+
+        const switchType = e.parentElement.classList[0];
+        document.body.classList.contains(switchType) ? document.body.classList.remove(switchType) : document.body.classList.add(switchType);
     });
 });
