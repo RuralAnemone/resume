@@ -1,8 +1,8 @@
 /* debug */
 /* *{border: solid red 1px} */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
 :root {
     --primary: #2684ba;
@@ -147,11 +147,11 @@ div.dr {
     height: calc((100vh / 3) / 18);
 }
 
-.phone-icons > img[alt='sms icon'] {
+.phone-icons > img[alt="sms icon"] {
     transform: translate(0, 0.5pt);
 }
 
-.phone-icons > img[alt='call icon'] {
+.phone-icons > img[alt="call icon"] {
     margin-left: calc((100vh / 3) / 18);
 
     transform: translate(0, -0.5pt);
@@ -239,5 +239,5 @@ body.fun .contact a:hover {
 }
 
 body.nerd * {
-    font-family: 'Roboto Mono', cursive;
+    font-family: "Roboto Mono", cursive;
 }
