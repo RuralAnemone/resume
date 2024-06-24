@@ -31,8 +31,12 @@ body {
     transition: 0.2s;
 }
 
-p {
+main p {
     margin-bottom: 0.0625in;
+}
+
+main a {
+    color: var(--primary);
 }
 
 header {
@@ -159,6 +163,7 @@ div.dr {
 div.mode-container {
     display: flex;
     flex-direction: column;
+
     margin: auto;
     margin-right: 1em;
 
@@ -171,7 +176,12 @@ div.mode-container {
 div.mode {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    align-items: center;
+}
+
+div.mode p {
+    margin: 1ex;
+    text-align: right;
 }
 
 div.switch {
@@ -189,6 +199,6 @@ div.head {
 /* fun animations */
 
 body.fun .contact a:hover {
-    transition: calc(3*var(--random-time));
+    transition: calc(var(--random-time));
     color: red;
 }
