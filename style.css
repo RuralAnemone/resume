@@ -74,7 +74,10 @@ div.me-img-container {
 }
 
 div.me-img-container > img {
-    height: inherit;
+    height: calc((2/3)*(100vh/3)) !important;
+    width: calc((2/3)*(100vh/3)) !important;
+    /* float: center; */
+    /* height: inherit; */
     border-radius: inherit;
 }
 
