@@ -40,13 +40,37 @@ main {
     align-items: center;
     justify-content: space-evenly;
 }
-/* 
-.me-container, .vr, .contact {
-    margin-top: calc(((100vh/3)/3) / 2);
-} */
 
 div.me-container {
     margin: calc(100vw/18);
+}
+
+div.me-img-container {
+    height: calc((2/3)*(100vh/3));
+    width: calc((2/3)*(100vh/3));
+    margin: auto;
+    border-radius: 100%;
+    border: 3pt solid var(--black);
+}
+
+div.me-img-container > img {
+    height: inherit;
+    border-radius: inherit;
+}
+
+div.me-container > .name-container {
+    transform: translate(0, -1.5em);
+
+    height: calc((100vh/3)/9);
+
+    border-radius: 27pt;
+    background-color: var(--secondary);
+    border: 3pt solid var(--black);
+    text-align: center;
+}
+
+div.name-container > h1 {
+    margin: 5pt;
 }
 
 div.vr {
@@ -75,6 +99,7 @@ div.contact > div > img {
 div.contact > div {
     display: flex;
     align-items: center;
+    margin: calc((1/36) * (100vh/3)) 0;
 }
 
 .phone-icons > img {
