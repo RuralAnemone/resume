@@ -12,7 +12,7 @@
 
     /* random variables; defaults set here */
     /* script.js sets these all to Math.random() * unit */
-    --random-time: .4s;
+    --random-time: 0.4s;
     --random-rotation: 23deg;
 
     /* --header-height: 30vh; */
@@ -145,4 +145,11 @@ div.dr {
     color: var(--white);
     text-decoration: none;
     margin-left: calc(2 * (1/36) * (100vh/3));
+}
+
+/* fun animations */
+
+body.fun .contact a:hover {
+    transition: calc(3*var(--random-time));
+    color: red;
 }
