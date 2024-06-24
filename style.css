@@ -40,6 +40,7 @@ main {
 
 footer {
     margin: 0 .15in;
+    float: bottom;
 }
 
 .flex-container {
