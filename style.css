@@ -103,7 +103,7 @@ div.me-container > .name-container {
 }
 
 div.name-container > h1 {
-    margin: 5pt;
+    margin: 3pt 10pt;
 }
 
 div.vr {
@@ -224,8 +224,17 @@ div.head {
 
 /* fun animations */
 
-body.fun .contact a:hover {
+body.fun .contact a,
+body.fun div.name-container > h1 {
     transition: calc(0.5 * var(--random-time) + 0.5s);
+}
+
+body.fun div.name-container > h1:hover {
+    letter-spacing: 1pt;
+    font-weight: 100;
+}
+
+body.fun .contact a:hover {
     color: red;
 }
 
