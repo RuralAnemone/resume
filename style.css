@@ -129,17 +129,15 @@ div.contact {
     justify-content: space-between;
 }
 
-div.contact > div > div.phone-icons,
-div.contact > div > img {
-    /* border: 1px solid red; */
-    width: calc((100vh / 3) / 9);
-    height: calc((100vh / 3) / 9);
-}
-
 div.contact > div {
     display: flex;
     align-items: center;
     margin: calc((1 / 36) * (100vh / 3)) 0;
+    div.phone-icons, img {
+        /* border: 1px solid red; */
+        width: calc((100vh / 3) / 9);
+        height: calc((100vh / 3) / 9);
+    }
 }
 
 div.dr {
