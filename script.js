@@ -7,6 +7,7 @@ function updateRandomCSSVariables() {
     root.style.setProperty("--random-time", `${Math.random()}s`);
     root.style.setProperty("--random-rotation", `${Math.random()}deg`);
     root.style.setProperty("--random-length", `${Math.random()}em`);
+    root.style.setProperty("--random-number", Math.random());
 }
 
 document.querySelectorAll(".switch").forEach(e => {

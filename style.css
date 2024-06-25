@@ -18,7 +18,7 @@
     --random-time: 0.4s;
     --random-rotation: 0.87deg;
     --random-length: 0.3em;
-    /* --number: 20; */
+    --random-number: 0.5;
 
     /* --header-height: 30vh; */
     /* css does not like this being used as a constant, not sure why */
@@ -246,7 +246,7 @@ body.fun div.name-container > h1:hover {
 }
 
 body.fun .contact a:hover {
-    transform: scale(calc(var(--random-length) * 3), 1);
+    transform: scale(calc(var(--random-number) * 3), 1);
     color: red;
 }
 
