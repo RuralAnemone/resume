@@ -54,3 +54,7 @@ function binaryConvert(text, directionBinarywards) {
             .join("");
     } else throw new Error("🐗🏿🤯🏼");
 }
+
+const phoneLink = document.querySelector(".contact-phone > a");
+phoneLink.innerText = atob("KzEgKDQwMikgOTE1LTM3ODc=");
+phoneLink.setAttribute("href", atob("dGVsOjQwMjkxNTM3ODc="));
