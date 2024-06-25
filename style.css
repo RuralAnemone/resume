@@ -148,18 +148,22 @@ div.dr {
     transform: rotate(-45deg);
 }
 
+.phone-icons {
+    display: flex;
+}
+
 .phone-icons > img {
-    height: calc((100vh / 3) / 18);
+    height: calc((100vh / 3) / 18) !important;
 }
 
 .phone-icons > img[alt="sms icon"] {
-    transform: translate(0, 0.5pt);
+    align-self: flex-start;
+    /* transform: translate(0, 0.5pt); */
 }
 
 .phone-icons > img[alt="call icon"] {
-    margin-left: calc((100vh / 3) / 18);
-
-    transform: translate(0, -0.5pt);
+    align-self: flex-end;
+    /* transform: translate(0, -0.5pt); */
 }
 
 .contact a {
