@@ -134,7 +134,8 @@ div.contact > div {
     display: flex;
     align-items: center;
     margin: calc((1 / 36) * (100vh / 3)) 0;
-    div.phone-icons, img {
+    div.phone-icons,
+    img {
         /* border: 1px solid red; */
         width: calc((100vh / 3) / 9);
         height: calc((100vh / 3) / 9);
@@ -143,7 +144,7 @@ div.contact > div {
 
 div.dr {
     position: relative;
-    height: calc((100vh/3)/9);
+    height: calc((100vh / 3) / 9);
     /* width: 0; */
     border: 0.5pt solid var(--white);
     transform: rotate(45deg);
