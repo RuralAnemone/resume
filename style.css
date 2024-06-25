@@ -16,8 +16,8 @@
     /* random variables; defaults set here */
     /* script.js sets these all to Math.random() * unit */
     --random-time: 0.4s;
-    --random-rotation: 23deg;
-    --random-length: 1.3em;
+    --random-rotation: 0.87deg;
+    --random-length: 0.3em;
     /* --number: 20; */
 
     /* --header-height: 30vh; */
