@@ -18,7 +18,7 @@
     --random-time: 0.4s;
     --random-rotation: 23deg;
     --random-length: 1.3em;
-    --number: 20;
+    /* --number: 20; */
 
     /* --header-height: 30vh; */
     /* css does not like this being used as a constant, not sure why */
