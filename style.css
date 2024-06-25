@@ -241,11 +241,12 @@ body.fun div.name-container > h1 {
 }
 
 body.fun div.name-container > h1:hover {
-    letter-spacing: 1pt;
+    letter-spacing: 2.5pt;
     font-weight: 100;
 }
 
 body.fun .contact a:hover {
+    transform: scale(calc(var(--random-length) * 3), 1);
     color: red;
 }
 
