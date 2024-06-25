@@ -223,14 +223,19 @@ div.switch {
 
 div.switch.off {
     background-color: var(--light-græy);
+    justify-content: flex-start;
+    transition: 0s;
 }
 
 div.switch.on {
     background-color: var(--secondary);
+    justify-content: flex-end;
+    transition: 0s;
 }
 
 div.switch.on > .head {
-    transform: translate(calc((100vh / 3) / 9));
+    /* transform: translate(calc((100vh / 3) / 9)); */
+    /* align-self: flex-end; */
 }
 
 div.head {
