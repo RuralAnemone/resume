@@ -142,10 +142,10 @@ div.contact > div {
 
 div.dr {
     position: relative;
-    /* width: calc((100vh/3)/9); */ /* - inherited */
-    height: 0;
+    height: calc((100vh/3)/9);
+    /* width: 0; */
     border: 0.5pt solid var(--white);
-    transform: rotate(-45deg);
+    transform: rotate(45deg);
 }
 
 .phone-icons {
