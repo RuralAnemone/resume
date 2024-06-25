@@ -24,6 +24,15 @@
     /* css does not like this being used as a constant, not sure why */
 }
 
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
 body {
     color: var(--black);
     background-color: var(--white);
@@ -266,6 +275,19 @@ body.fun .contact > div:hover:nth-child(odd) {
         transform: scale(calc(var(--static-random-number) * 1 + 1.3), 1);
     }
 }
+
+body.fun .me-img-container > img:hover {
+    /* animation: rotate calc(1s) linear infinite; */
+    rotate: calc(360deg * 420);
+    transition: calc(1s * 69);
+}
+
+body.fun .me-img-container > img:not(:hover) {
+    transition: 0s;
+    /* nothing happened hehe */
+}
+
+/* --- */
 
 body.nerd * {
     font-family: "Roboto Mono", cursive;
