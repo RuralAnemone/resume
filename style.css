@@ -288,9 +288,6 @@ div.scroll-down {
     display: none;
     background-color: var(--secondary);
     border-radius: 100%;
-    img {
-        margin: 1ex;
-    }
 
     margin-bottom: 1ex;
 
@@ -298,6 +295,10 @@ div.scroll-down {
     height: 15vw;
     justify-content: center;
     align-items: center;
+
+    img {
+        margin: 1ex;
+    }
 }
 
 /* fun animations */
