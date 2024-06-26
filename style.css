@@ -79,7 +79,7 @@ footer {
     }
 }
 
-.flex-container {
+.header-flex-container {
     height: calc(100vh / 3);
     display: flex;
     flex-direction: row;
