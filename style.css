@@ -166,7 +166,7 @@ div.name-container > h1 {
 
 div.vr {
     height: calc((2 / 3) * (100vh / 3));
-    width: 0 !important;
+    width: 0;
     border: 2px solid var(--white);
 }
 
@@ -352,6 +352,17 @@ body.fun .me-img-container > img:hover {
 body.fun .me-img-container > img:not(:hover) {
     transition: 0s;
     /* nothing happened hehe */
+}
+
+body.fun .vr:hover {
+    width: calc((2 / 3) * (100vh / 3));
+    transition: calc(var(--random-time) + 1s);
+}
+
+.vr > img {
+    height: calc((2 / 3) * (100vh / 3));
+    width: inherit;
+    transition: 0s;
 }
 
 /* --- */
