@@ -152,7 +152,7 @@ div.name-container > h1 {
     margin: 3pt 10pt;
 }
 
-hr.vr {
+.header-flex-container hr {
     display: none;
 }
 
