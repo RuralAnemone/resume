@@ -367,6 +367,12 @@ body.fun .vr:hover {
 
 /* --- */
 
-body.nerd * {
+body.nerd {
     font-family: "Roboto Mono", cursive;
+    header {
+        height: auto;
+    }
+    .header-flex-container {
+        height: auto;
+    }
 }
