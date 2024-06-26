@@ -233,11 +233,6 @@ div.switch.on {
     transition: 0s;
 }
 
-div.switch.on > .head {
-    /* transform: translate(calc((100vh / 3) / 9)); */
-    /* align-self: flex-end; */
-}
-
 div.head {
     height: inherit;
     width: calc((100vh / 3) / 9);
@@ -249,6 +244,7 @@ div.head {
 
 /* fun animations */
 
+body.fun .contact > div,
 body.fun .contact a,
 body.fun div.name-container > h1 {
     transition: calc(0.5 * var(--random-time) + 0.5s);
