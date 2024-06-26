@@ -194,7 +194,7 @@
 
 #### June 2020 to Present
 
-Worked as a farmhand, doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
+Working as a farmhand, doing general chores (planting, weeding, watering, harvesting, transportation) and helping customers at the storefront.
 
 ---
 
@@ -226,7 +226,7 @@ Helped open and close the stand, served customers, handled money (including occa
 
 Playing piano/keys using Ableton Live and Nord Stage models. Playing at the Lakeville location approximately once a month.
 Lighting using Vista 2 & 3 with various fixture setups. Programming fixtures and cuelists for kids and youth services. Mixing audio for kids service using a RØDECaster Pro II board. Trained on an Allen & Heath QU-24.
-Coaching students in kids ministry on Propresenter 7 and the RØDECaster Pro II. Leading a 4th grade bible study.
+Coaching students in kids ministry on Propresenter 7 and the RØDECaster Pro II. Leading a 4th grade Bible study.
 
 ---
 
@@ -236,7 +236,7 @@ Coaching students in kids ministry on Propresenter 7 and the RØDECaster Pro II.
 
 #### June 2022 to August 2022
 
-Helped customers with their shopping needs. Used Google Sheets to track produce Input/Output.
+Helped customers with their shopping needs. Used Google Sheets to track produce input/output.
 
 ---
 
@@ -268,7 +268,7 @@ Programmed in Java and C(++) with the WPILib API and gradle. Implemented manual 
 
 ### February 2023 - April 2024
 
-A parody of our school newspaper that turned briefly into real journalism and then subsequently into highly organized "chaos". I designed the website as my initial foray into React/Next.js.
+A parody of our school newspaper. I designed the website as my initial foray into React/Next.js.
 
 ---
 
