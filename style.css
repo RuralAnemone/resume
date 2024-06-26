@@ -286,8 +286,9 @@ div.head {
 /* scroll to content */
 div.scroll-down {
     display: none;
-    background-color: var(--secondary);
+    background-color: var(--primary);
     border-radius: 100%;
+    box-shadow: 0 4px 10px var(--dark-græy);
 
     margin-bottom: 1ex;
 
