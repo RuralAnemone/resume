@@ -257,7 +257,7 @@ body.fun div.name-container > h1:hover {
 
 body.fun .contact > div:hover:nth-child(even) {
     transform: rotate(calc(var(--static-random-number) * 100deg - 50deg));
-    
+
     a {
         transform: scale(calc(var(--static-random-number) * 0.5 + 1.3), 1);
     }

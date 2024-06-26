@@ -60,8 +60,8 @@ const phoneLink = document.querySelector(".contact-phone > a");
 phoneLink.innerText = atob("KzEgKDQwMikgOTE1LTM3ODc=");
 phoneLink.setAttribute("href", atob("dGVsOjQwMjkxNTM3ODc="));
 
-document.querySelectorAll("*").forEach(e=>{
-    e.addEventListener('mouseover', () => {
+document.querySelectorAll("*").forEach(e => {
+    e.addEventListener("mouseover", () => {
         e.style.setProperty("--static-random-number", Math.random());
     });
 });
