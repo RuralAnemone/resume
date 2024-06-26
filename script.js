@@ -65,3 +65,20 @@ document.querySelectorAll("*").forEach(e => {
         e.style.setProperty("--static-random-number", Math.random());
     });
 });
+
+// if js enabled, dynamic scroll thingy
+let scrollButton = document.createElement("button");
+scrollButton.setAttribute("type", "button");
+scrollButton.addEventListener('click', () => {
+    window.scrollBy({
+        top: window.innerHeight,
+        left: 0,
+        behavior: "smooth"
+    });
+    console.debug(window.innerHeight);
+});
+let buttonImage = document.createElement("img");
+buttonImage.setAttribute("src", "./icons/down.svg");
+buttonImage.setAttribute("alt", "down arrow icon");
+scrollButton.appendChild(buttonImage);
+document.querySelector(".scroll-down").appendChild(scrollButton);
