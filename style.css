@@ -279,6 +279,12 @@ div.head {
     border-radius: 100%;
 }
 
+/* scroll to content */
+div.scroll-down {
+    background-color: var(--secondary);
+    border-radius: 100%;
+}
+
 /* fun animations */
 
 body.fun .contact > div,
