@@ -32,10 +32,15 @@
 
 ## Programming Languages & tools
 
+### Expert
+
+- JavaScript (core)
+- TypeScript
+
 ### Proficient
 
--   JavaScript & TypeScript
--   npm & node
+-   npm
+-   node
 -   yarn
 -   bun
 -   React.js
@@ -82,7 +87,8 @@
 
 ### Proficient
 
--   VSCodium and Visual Studio Code
+-   VSCodium
+- Visual Studio Code
 
 ### Competent
 
