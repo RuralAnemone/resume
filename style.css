@@ -300,6 +300,12 @@ div.scroll-down {
     img {
         margin: 1ex;
     }
+
+    button {
+        background-color: var(--primary);
+        border: none;
+        border-radius: 100%;
+    }
 }
 
 /* fun animations */
