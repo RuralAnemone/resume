@@ -34,8 +34,8 @@
 
 ### Expert
 
-- JavaScript (core)
-- TypeScript
+-   JavaScript (core)
+-   TypeScript
 
 ### Proficient
 
@@ -88,7 +88,7 @@
 ### Proficient
 
 -   VSCodium
-- Visual Studio Code
+-   Visual Studio Code
 
 ### Competent
 
