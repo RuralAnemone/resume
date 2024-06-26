@@ -117,6 +117,10 @@ footer {
     div.mode-container {
         margin-right: auto !important;
     }
+
+    div.scroll-down {
+        display: flex !important;
+    }
 }
 
 div.me-container {
@@ -281,8 +285,19 @@ div.head {
 
 /* scroll to content */
 div.scroll-down {
+    display: none;
     background-color: var(--secondary);
     border-radius: 100%;
+    img {
+        margin: 1ex;
+    }
+
+    margin-bottom: 1ex;
+
+    width: 15vw;
+    height: 15vw;
+    justify-content: center;
+    align-items: center;
 }
 
 /* fun animations */
