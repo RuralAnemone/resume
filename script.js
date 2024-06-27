@@ -69,11 +69,11 @@ document.querySelectorAll("*").forEach(e => {
 // if js enabled, dynamic scroll thingy
 let scrollButton = document.createElement("button");
 scrollButton.setAttribute("type", "button");
-scrollButton.addEventListener('click', () => {
+scrollButton.addEventListener("click", () => {
     window.scrollBy({
         top: window.innerHeight,
         left: 0,
-        behavior: "smooth"
+        behavior: "smooth",
     });
     console.debug(window.innerHeight);
 });
