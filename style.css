@@ -56,8 +56,9 @@ main a {
 
 header {
     background-color: var(--primary);
-    width: 100%;
-    height: calc(100vh / 3);
+    /* width: 100vw; */
+    height: calc((100vh / 3) + 1.5 * ((100vh / 3) / 9));
+    padding: 0 30vw;
 }
 
 main {
@@ -65,6 +66,7 @@ main {
     font-size: 10pt;
     line-height: 13pt;
     margin: 0 0.15in;
+    padding: 0 30vw;
 }
 
 footer {
@@ -79,11 +81,21 @@ footer {
 }
 
 .header-flex-container {
-    height: calc(100vh / 3);
+    height: calc((100vh / 3) + 1.5 * ((100vh / 3) / 9));
     display: flex;
     flex-direction: row;
     align-items: center;
+    /* align-content: flex-start; */
     justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.header-main-content {
+    height: calc((100vh / 3) + 1.5 * ((100vh / 3) / 9));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 @media screen and (max-width: 500px) {
@@ -91,14 +103,20 @@ footer {
         flex-direction: column;
         align-items: center;
         /* justify-content: flex-start !important; */
+        flex-wrap: wrap;
         height: 100vh;
     }
 
     header {
         height: 100vh;
+        padding: 0 !important;
     }
 
-    .header-flex-container > hr {
+    main {
+        padding: 0 !important;
+    }
+
+    .header-flex-container hr {
         display: block !important;
         color: var(--white) !important;
         width: 80vw;
@@ -124,7 +142,7 @@ footer {
 }
 
 div.me-container {
-    margin: calc(100vw / 18);
+    margin: 0 calc(100vw / (18 * 2));
 }
 
 div.me-img-container {
@@ -159,7 +177,7 @@ div.name-container > h1 {
     margin: 3pt 10pt;
 }
 
-.header-flex-container > hr {
+.header-flex-container hr {
     margin: 0;
     display: none;
 }
@@ -228,13 +246,18 @@ div.dr {
 /* toggle switch thingies */
 div.mode-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 
     margin: auto;
-    margin-right: 1em;
+    align-self: center;
+    /* margin-right: 1em; */
 
     font-size: calc(2 * ((100vh / 3) / 9) / 3);
     color: var(--white);
+
+    flex-basis: 100vw;
+
+    transform: translate(0, calc(-1.5 * ((100vh / 3) / 9)));
 }
 
 div.mode {
