@@ -274,7 +274,7 @@ A parody of our school newspaper. I designed the website as my initial foray int
 
 # Music Experience
 
-Playing piano for 13 years at church, District and National Fine Arts Festival, and for personal enjoyment. 
+Playing piano for 13 years at church, State and National level Assemblies of God Fine Arts Festival, and for personal enjoyment.
 
 ---
 
