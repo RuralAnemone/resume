@@ -6,6 +6,6 @@
     },
     "scripts": {
         "start": "bunx serve .",
-        "clean": "prettier --write ."
+        "format": "prettier --write ."
     }
 }
