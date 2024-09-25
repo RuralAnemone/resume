@@ -21,7 +21,9 @@ document.querySelectorAll(".switch").forEach(e => {
         }
 
         const switchType = e.parentElement.classList[0];
-        document.body.classList.contains(switchType) ? document.body.classList.remove(switchType) : document.body.classList.add(switchType);
+        document.body.classList.contains(switchType)
+            ? document.body.classList.remove(switchType)
+            : document.body.classList.add(switchType);
 
         if (switchType === "nerd") nerdToggle(document.body.classList.contains("nerd"));
     });
@@ -35,7 +37,10 @@ function nerdToggle(nerdMode) {
     // iterate through all elements (small amount so who cares how, right?)
     // for every element that has text directly inside, tun that text through textToBinary()
     document.querySelectorAll("*").forEach(e => {
-        if (e.childNodes[0]?.nodeType === Node.TEXT_NODE && !binaryConvert(e.childNodes[0]?.nodeValue, "to").match(/1010 (100000)+/)) {
+        if (
+            e.childNodes[0]?.nodeType === Node.TEXT_NODE &&
+            !binaryConvert(e.childNodes[0]?.nodeValue, "to").match(/1010 (100000)+/)
+        ) {
             const textNode = e.childNodes[0];
             textNode.nodeValue = binaryConvert(textNode.nodeValue, directionBinarywards);
         }
